@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+![Image](https://raw.githubusercontent.com/ZhiGaomcislab/ZhiGaomcislab.github.io/master/gaozhi.png)
 
-You can use the [editor on GitHub](https://github.com/ZhiGaomcislab/ZhiGaomcislab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Zhi Gao
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+School of Computer Science, Beijing Institute of Technology
 
-### Markdown
+E-mail: gaozhi_2017@bit.edu.cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I received the B.S. degree in computer science from the Beijing Institute of Technology (BIT), Beijing, China, in 2017. 
 
-```markdown
-Syntax highlighted code block
+I am currently pursuing the Ph.D. degree with the Beijing Laboratory of Intelligent Information Technology under the supervision of Dr.Yuwei Wu. 
 
-# Header 1
-## Header 2
-### Header 3
+My current research interests include pattern recognition, machine learning, and computer vision on the Riemannian manifold.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Publications
 
-**Bold** and _Italic_ and `Code` text
+### 2020
 
-[Link](url) and ![Image](src)
-```
+**Zhi Gao**, Yuwei Wu, Xiaoxun Zhang, Jindou Dai, Yunde Jia, Mehrtash Harandi. Revisiting Bilinear Pooling: A Coding Perspective. AAAI 2020. [[pdf]](https://drive.google.com/open?id=1Bf6lV3TkZcyoogDjggezaSDuAj2O9ab5)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 2019
+**Zhi Gao***, Yuwei Wu*, Mehrtash Harandi, Yunde Jia. A Robust Distance Measure for Similarity-Based Classification on the SPD Manifold. TNNLS 2019. [[pdf]](https://drive.google.com/open?id=1oKezQbXILLbEclTZj0VkZOBeDoI8UUIZ)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhiGaomcislab/ZhiGaomcislab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Zhi Gao**, Yuwei Wu, Xingyuan Bu, Tan Yu, Junsong Yuan, Yunde Jia. Learning a robust representation via a deep network on symmetric positive definite manifolds. PR 2019. [[pdf]](https://drive.google.com/open?id=1lpjNrloAoc6GPXq92iSYyzGn1i5O7aX_)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Xingyuan Bu, Yuwei Wu, **Zhi Gao**, Yunde Jia. Deep convolutional network with locality and sparsity constraints for texture classification. PR 2019. [[pdf]](https://drive.google.com/open?id=17G69lfchEm7hVdIiE8NimtZsWZScZmB3)
