@@ -1,6 +1,8 @@
-![Image](https://raw.githubusercontent.com/ZhiGaomcislab/ZhiGaomcislab.github.io/master/gaozhi.png)
+
 
 ## Zhi Gao
+
+![Image](https://raw.githubusercontent.com/ZhiGaomcislab/ZhiGaomcislab.github.io/master/gaozhi.png)
 
 School of Computer Science, Beijing Institute of Technology
 
