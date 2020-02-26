@@ -4,7 +4,7 @@
 
 ![Image](https://raw.githubusercontent.com/ZhiGaomcislab/ZhiGaomcislab.github.io/master/gaozhi.png)
 
-School of Computer Science, Beijing Institute of Technology
+School of Computer Science and Technology, Beijing Institute of Technology
 
 E-mail: gaozhi_2017@bit.edu.cn
 
@@ -18,6 +18,7 @@ My current research interests include pattern recognition, machine learning, and
 ## Publications
 
 ### 2020
+**Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning to Optimize on SPD Manifolds. CVPR 2020. 
 
 **Zhi Gao**, Yuwei Wu, Xiaoxun Zhang, Jindou Dai, Yunde Jia, Mehrtash Harandi. Revisiting Bilinear Pooling: A Coding Perspective. AAAI 2020. [[pdf]](https://drive.google.com/open?id=1Bf6lV3TkZcyoogDjggezaSDuAj2O9ab5)
 
