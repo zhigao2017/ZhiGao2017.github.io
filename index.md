@@ -2,7 +2,7 @@
 
 ## Zhi Gao
 
-![Image](https://github.com/ZhiGaomcislab/ZhiGaomcislab.github.io/blob/master/ZhiGao.jpg)
+![Image](https://github.com/ZhiGaomcislab/ZhiGaomcislab.github.io/blob/master/zhigao_small_small.jpg)
 
 School of Computer Science and Technology, Beijing Institute of Technology
 
