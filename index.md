@@ -14,6 +14,7 @@ I am currently pursuing the Ph.D. degree with the Beijing Laboratory of Intellig
 
 My current research interests include pattern recognition, machine learning, and computer vision on the Riemannian manifold.
 
+[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=X4FB-QYAAAAJ)
 
 ## Publications
 
