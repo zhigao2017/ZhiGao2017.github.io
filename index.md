@@ -1,10 +1,10 @@
 
 
-## Zhi Gao
+## Zhi Gao  (高志)
 
 ![Image](https://github.com/ZhiGaomcislab/ZhiGaomcislab.github.io/blob/master/zhigao_small_small.jpg)
 
-School of Computer Science and Technology, Beijing Institute of Technology
+School of Computer Science and Technology, Beijing Institute of Technology  (北京理工大学计算机学院)
 
 E-mail: gaozhi_2017@bit.edu.cn
 
