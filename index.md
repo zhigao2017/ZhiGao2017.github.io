@@ -19,12 +19,12 @@ My current research interests include pattern recognition, machine learning, and
 ## Publications
 
 ### 2021 
-Xiaomeng Fan*, **Zhi Gao***, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning a Gradient-free Riemannian Optimizer on Tangent Spaces. AAAI 2021
+Xiaomeng Fan*, **Zhi Gao***, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning a Gradient-free Riemannian Optimizer on Tangent Spaces. AAAI 2021. (co-first author)
 
 ### 2020
 **Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning to Optimize on SPD Manifolds. CVPR 2020. [[pdf]](https://drive.google.com/file/d/1mPAcckPItzFU-BNSn10glnDaUOe7aiY0/view?usp=sharing)
 
-**Zhi Gao**, Yuwei Wu, Xiaoxun Zhang, Jindou Dai, Yunde Jia, Mehrtash Harandi. Revisiting Bilinear Pooling: A Coding Perspective. AAAI 2020. [[pdf]](https://drive.google.com/open?id=1Bf6lV3TkZcyoogDjggezaSDuAj2O9ab5)
+**Zhi Gao**, Yuwei Wu, Xiaoxun Zhang, Jindou Dai, Yunde Jia, Mehrtash Harandi. Revisiting Bilinear Pooling: A Coding Perspective. AAAI 2020. (co-first author) [[pdf]](https://drive.google.com/open?id=1Bf6lV3TkZcyoogDjggezaSDuAj2O9ab5)
 
 
 ### 2019
