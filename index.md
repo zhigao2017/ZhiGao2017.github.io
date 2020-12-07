@@ -24,11 +24,11 @@ Xiaomeng Fan*, **Zhi Gao***, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning a G
 ### 2020
 **Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning to Optimize on SPD Manifolds. CVPR 2020. [[pdf]](https://drive.google.com/file/d/1mPAcckPItzFU-BNSn10glnDaUOe7aiY0/view?usp=sharing)
 
-**Zhi Gao**, Yuwei Wu, Xiaoxun Zhang, Jindou Dai, Yunde Jia, Mehrtash Harandi. Revisiting Bilinear Pooling: A Coding Perspective. AAAI 2020. (co-first author) [[pdf]](https://drive.google.com/open?id=1Bf6lV3TkZcyoogDjggezaSDuAj2O9ab5)
+**Zhi Gao**, Yuwei Wu, Xiaoxun Zhang, Jindou Dai, Yunde Jia, Mehrtash Harandi. Revisiting Bilinear Pooling: A Coding Perspective. AAAI 2020. [[pdf]](https://drive.google.com/open?id=1Bf6lV3TkZcyoogDjggezaSDuAj2O9ab5)
 
 
 ### 2019
-**Zhi Gao***, Yuwei Wu*, Mehrtash Harandi, Yunde Jia. A Robust Distance Measure for Similarity-Based Classification on the SPD Manifold. TNNLS 2019. [[pdf]](https://drive.google.com/open?id=1oKezQbXILLbEclTZj0VkZOBeDoI8UUIZ)
+**Zhi Gao***, Yuwei Wu*, Mehrtash Harandi, Yunde Jia. A Robust Distance Measure for Similarity-Based Classification on the SPD Manifold. TNNLS 2019. (co-first author) [[pdf]](https://drive.google.com/open?id=1oKezQbXILLbEclTZj0VkZOBeDoI8UUIZ)
 
 **Zhi Gao**, Yuwei Wu, Xingyuan Bu, Tan Yu, Junsong Yuan, Yunde Jia. Learning a robust representation via a deep network on symmetric positive definite manifolds. PR 2019. [[pdf]](https://drive.google.com/open?id=1lpjNrloAoc6GPXq92iSYyzGn1i5O7aX_)
 
