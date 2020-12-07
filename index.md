@@ -18,6 +18,9 @@ My current research interests include pattern recognition, machine learning, and
 
 ## Publications
 
+### 2021 
+Xiaomeng Fan*, **Zhi Gao***, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning a Gradient-free Riemannian Optimizer on Tangent Spaces. AAAI 2021
+
 ### 2020
 **Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning to Optimize on SPD Manifolds. CVPR 2020. [[pdf]](https://drive.google.com/file/d/1mPAcckPItzFU-BNSn10glnDaUOe7aiY0/view?usp=sharing)
 
