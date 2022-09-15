@@ -1,6 +1,6 @@
 
 
-## Zhi Gao  (高志)
+## Zhi Gao's Homepage  (高志)
 
 ![Image](https://github.com/ZhiGaomcislab/ZhiGaomcislab.github.io/blob/master/zhigao_small_small.jpg)
 
