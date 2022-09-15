@@ -18,10 +18,13 @@ My current research interests include pattern recognition, machine learning, and
 
 ## Publications
 
+### 2022
+
+**Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds. NeurIPS 2022.
+
+**Zhi Gao**, Yuwei Wu, Mehrtash Harandi, Yunde Jia. Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data. T-PAMI 2022.
+
 ### 2021
-
-
-
 **Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Curvature Generation in Hyperbolic Spaces for Few-Shot Learning. ICCV 2021.
 
 Xiaomeng Fan*, **Zhi Gao***, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning a Gradient-free Riemannian Optimizer on Tangent Spaces. AAAI 2021. (co-first author) [[pdf]](https://drive.google.com/file/d/1kPbOPnO1Ciur-9t_ABWOnOFkE6v_pM1L/view?usp=sharing)
