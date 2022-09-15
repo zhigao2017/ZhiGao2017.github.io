@@ -12,7 +12,7 @@ I received the B.S. degree in computer science from the Beijing Institute of Tec
 
 I am currently pursuing the Ph.D. degree with the Beijing Laboratory of Intelligent Information Technology under the supervision of Dr. Yuwei Wu and Prof. Yunde Jia. 
 
-My current research interests include pattern recognition, machine learning, and computer vision on the Riemannian manifold.
+My current research interests include pattern recognition, machine learning, computer vision, and Riemannian geometry.
 
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=X4FB-QYAAAAJ)
 
