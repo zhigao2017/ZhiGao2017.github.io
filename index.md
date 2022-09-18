@@ -6,7 +6,7 @@
 
 School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China  (北京理工大学计算机学院)
 
-E-mail: gaozhi_2017@bit.edu.cn
+E-mail: gaozhi_2017@bit.edu.cn and gaozhi_2017@126.com
 
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=X4FB-QYAAAAJ)
 
