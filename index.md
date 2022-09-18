@@ -8,13 +8,23 @@ School of Computer Science and Technology, Beijing Institute of Technology, Beij
 
 E-mail: gaozhi_2017@bit.edu.cn
 
+[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=X4FB-QYAAAAJ)
+
+## Education
 I received the B.S. degree in computer science from the Beijing Institute of Technology (BIT), Beijing, China, in 2017. 
 
 I am currently pursuing the Ph.D. degree with the Beijing Laboratory of Intelligent Information Technology under the supervision of Dr. Yuwei Wu and Prof. Yunde Jia. 
 
-My current research interests include pattern recognition, machine learning, computer vision, and Riemannian geometry.
+## Research Interest
+My research interests lie in computer vision and machine learning. Concretely, 
 
-[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=X4FB-QYAAAAJ)
+(1) I am interested in the **structure and geometry of data space**. In my graduate studies, I work on learning representations on Riemannian manifolds to match some properties of data. 
+
+(2) I am interested in **knowledge** mining, representation, and reasoning in machine learning, which make algorithms more robust, interpretable, and trustworthy. 
+
+(3) I am interested in machine learning in the **open environment** where insufficient annotation is provided and there is distribution shift between data, such as few-shot learning, meta-learning, self-supervised learning, and continual learning. 
+
+
 
 ## Publications
 
