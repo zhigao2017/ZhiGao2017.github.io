@@ -13,7 +13,7 @@ E-mail: gaozhi_2017@bit.edu.cn and gaozhi_2017@126.com
 ## Education
 I received the B.S. degree in computer science from the Beijing Institute of Technology (BIT), Beijing, China, in 2017. 
 
-I am currently pursuing the Ph.D. degree with the Beijing Laboratory of Intelligent Information Technology under the supervision of Dr. Yuwei Wu and Prof. Yunde Jia. 
+I am currently pursuing the Ph.D. degree with the Beijing Laboratory of Intelligent Information Technology under the supervision of Prof. Yuwei Wu and Prof. Yunde Jia. 
 
 ## Research Interest
 My research interests lie in computer vision and machine learning. Concretely, 
