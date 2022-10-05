@@ -29,6 +29,7 @@ My research interests lie in computer vision and machine learning. Concretely,
 ## Publications
 
 ### 2022
+**Zhi Gao**, Yuwei Wu, Xiaomeng Fan, Mehrtash Harandi, Yunde Jia. Learning to Optimize on Riemannian Manifold. T-PAMI 2022.
 
 **Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds. NeurIPS 2022.
 
