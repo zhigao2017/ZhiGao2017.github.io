@@ -38,7 +38,7 @@ My research interests lie in computer vision and machine learning. Concretely,
 ### 2021
 **Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Curvature Generation in Hyperbolic Spaces for Few-Shot Learning. ICCV 2021.
 
-Xiaomeng Fan^{*}, **Zhi Gao^{*}**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning a Gradient-free Riemannian Optimizer on Tangent Spaces. AAAI 2021. (co-first author) [[pdf]](https://drive.google.com/file/d/1kPbOPnO1Ciur-9t_ABWOnOFkE6v_pM1L/view?usp=sharing)
+Xiaomeng Fan<sup>*<sup>, **Zhi Gao<sup>*<sup>**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Learning a Gradient-free Riemannian Optimizer on Tangent Spaces. AAAI 2021. (co-first author) [[pdf]](https://drive.google.com/file/d/1kPbOPnO1Ciur-9t_ABWOnOFkE6v_pM1L/view?usp=sharing)
 
 Jindou Dai, Yuwei Wu, **Zhi Gao**, Yunde Jia. A Hyperbolic-to-Hyperbolic Graph Convolutional Network. CVPR 2021 (oral).
 
