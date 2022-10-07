@@ -51,7 +51,7 @@ Jindou Dai, Yuwei Wu, **Zhi Gao**, Yunde Jia. Infinite-dimensional Feature Aggre
 
 
 ### 2019
-**Zhi Gao***, Yuwei Wu*, Mehrtash Harandi, Yunde Jia. A Robust Distance Measure for Similarity-Based Classification on the SPD Manifold. TNNLS 2019. (co-first author) [[pdf]](https://drive.google.com/open?id=1oKezQbXILLbEclTZj0VkZOBeDoI8UUIZ)
+**Zhi Gao**, Yuwei Wu, Mehrtash Harandi, Yunde Jia. A Robust Distance Measure for Similarity-Based Classification on the SPD Manifold. TNNLS 2019. [[pdf]](https://drive.google.com/open?id=1oKezQbXILLbEclTZj0VkZOBeDoI8UUIZ)
 
 **Zhi Gao**, Yuwei Wu, Xingyuan Bu, Tan Yu, Junsong Yuan, Yunde Jia. Learning a robust representation via a deep network on symmetric positive definite manifolds. PR 2019. [[pdf]](https://drive.google.com/open?id=1lpjNrloAoc6GPXq92iSYyzGn1i5O7aX_)
 
