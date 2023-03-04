@@ -28,6 +28,11 @@ My research interests lie in computer vision and machine learning. Concretely,
 
 ## Publications
 
+### 2023
+**Zhi Gao**, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, Yuwei Wu. Exploring Data Geometry for Continual Learning. CVPR 2023.
+
+Jin Chen<sup>+</sup>, **Zhi Gao**<sup>+</sup>, Xinxiao Wu, Jiebo Luo. Meta-causal Learning for Single Domain Generalization. CVPR 2023. (co-first author)
+
 ### 2022
 **Zhi Gao**, Yuwei Wu, Xiaomeng Fan, Mehrtash Harandi, Yunde Jia. Learning to Optimize on Riemannian Manifolds. T-PAMI 2022. [[pdf]](https://drive.google.com/file/d/1OCfsMvEFgzjam8SRyI8SanckLIiSJWvN/view?usp=sharing)
 
