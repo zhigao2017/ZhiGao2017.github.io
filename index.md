@@ -40,6 +40,7 @@ Jin Chen<sup>+</sup>, **Zhi Gao**<sup>+</sup>, Xinxiao Wu, Jiebo Luo. Meta-causa
 
 **Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds. **NeurIPS 2022**. [[pdf]](https://drive.google.com/file/d/1ksu0wB4ITzucSXjZkcACTFbcbfX9LY5z/view?usp=sharing)
 
+Xiaomeng Fan, Yuwei Wu, **Zhi Gao**, Yunde Jia, Mehrtash Harandi. Efficient Riemannian Meta-Optimization by Implicit Differentiation. **AAAI 2022**.  [[pdf]](https://drive.google.com/file/d/1Pxe9Ijab69IX5UORCSSZ0VLGP3JGPXuM/view?usp=share_link)
 
 ### 2021
 **Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Curvature Generation in Hyperbolic Spaces for Few-Shot Learning. **ICCV 2021**. [[pdf]](https://drive.google.com/file/d/1Qv6Gjhb4t7Nj1kz6erJv8d_H7D-ZgYRB/view?usp=sharing)
