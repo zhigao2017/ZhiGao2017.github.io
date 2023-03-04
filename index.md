@@ -36,9 +36,10 @@ Jin Chen<sup>+</sup>, **Zhi Gao**<sup>+</sup>, Xinxiao Wu, Jiebo Luo. Meta-causa
 ### 2022
 **Zhi Gao**, Yuwei Wu, Xiaomeng Fan, Mehrtash Harandi, Yunde Jia. Learning to Optimize on Riemannian Manifolds. **T-PAMI 2022**. [[pdf]](https://drive.google.com/file/d/1OCfsMvEFgzjam8SRyI8SanckLIiSJWvN/view?usp=sharing)
 
+**Zhi Gao**, Yuwei Wu, Mehrtash Harandi, Yunde Jia. Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data. **T-PAMI 2022**. [[pdf]](https://drive.google.com/file/d/1h9sGfF_azEkRPJvYNwinGTmE8nNCEDcZ/view?usp=sharing)
+
 **Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds. **NeurIPS 2022**. [[pdf]](https://drive.google.com/file/d/1ksu0wB4ITzucSXjZkcACTFbcbfX9LY5z/view?usp=sharing)
 
-**Zhi Gao**, Yuwei Wu, Mehrtash Harandi, Yunde Jia. Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data. **T-PAMI 2022**. [[pdf]](https://drive.google.com/file/d/1h9sGfF_azEkRPJvYNwinGTmE8nNCEDcZ/view?usp=sharing)
 
 ### 2021
 **Zhi Gao**, Yuwei Wu, Yunde Jia, Mehrtash Harandi. Curvature Generation in Hyperbolic Spaces for Few-Shot Learning. **ICCV 2021**. [[pdf]](https://drive.google.com/file/d/1Qv6Gjhb4t7Nj1kz6erJv8d_H7D-ZgYRB/view?usp=sharing)
