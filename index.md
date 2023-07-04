@@ -1,21 +1,18 @@
-
-
 ## Zhi Gao's Homepage  (高志)
 
 ![Image](https://github.com/ZhiGaomcislab/ZhiGaomcislab.github.io/blob/master/zhigao_small_small.jpg)
 
-School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China  (北京理工大学计算机学院)
+Postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University. (北京大学智能学院)
 
-E-mail: gaozhi_2017@bit.edu.cn and gaozhi_2017@126.com
+E-mail: zhi.gao@pku.edu.cn, gaozhi_2017@bit.edu.cn, and gaozhi_2017@126.com
 
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=X4FB-QYAAAAJ)
 
 ## Education
-I received the B.S. degree in computer science from the Beijing Institute of Technology (BIT), Beijing, China, in 2017. 
+I received my B.S. degree in computer science from the Beijing Institute of Technology (BIT), Beijing, China, in 2017. 
 
-I am currently pursuing the Ph.D. degree with the Beijing Laboratory of Intelligent Information Technology under the supervision of Prof. Yuwei Wu and Prof. Yunde Jia. 
+I received my Ph.D. degree in computer science from the Beijing Institute of Technology (BIT), Beijing, China, in 2023, under the supervision of Prof. Yuwei Wu and Prof. Yunde Jia. 
 
-I will be a postdoctoral research fellow in Peking University in 2023.7.
 
 ## Research Interest
 My research interests lie in computer vision and machine learning. Concretely, 
