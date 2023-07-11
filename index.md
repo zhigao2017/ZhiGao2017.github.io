@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/ZhiGaomcislab/ZhiGaomcislab.github.io/blob/master/zhigao_small_small.jpg)
 
-Postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University. (北京大学智能学院)
+I am a postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University, working with Prof. Song-Chun Zhu. (北京大学智能学院)
 
 E-mail: zhi.gao@pku.edu.cn, gaozhi_2017@bit.edu.cn, and gaozhi_2017@126.com
 
