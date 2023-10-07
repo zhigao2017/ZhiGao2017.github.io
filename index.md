@@ -69,4 +69,4 @@ Jindou Dai, Yuwei Wu, **Zhi Gao**, Yunde Jia. Infinite-dimensional Feature Aggre
 Xingyuan Bu, Yuwei Wu, **Zhi Gao**, Yunde Jia. Deep convolutional network with locality and sparsity constraints for texture classification. **Pattern Recognition 2019**. [[pdf]](https://drive.google.com/open?id=17G69lfchEm7hVdIiE8NimtZsWZScZmB3)
 
 ## Reward
-ACM SIGAi China Doctoral Dissertation Awar 2023
+ACM SIGAI China Doctoral Dissertation Award 2023
