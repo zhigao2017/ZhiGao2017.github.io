@@ -31,7 +31,7 @@ My research interests lie in computer vision and machine learning. Concretely,
 
 ### 2023
 
-**My Thesis**. Geometry-Adaptive Meta-Learning in Riemannian Manifolds. (in Chinese.)  [[pdf]](https://drive.google.com/file/d/1SDqUKJvdMoeUI0EDsTSWik7hzVxFrdZG/view?usp=sharing)
+**My Thesis**. Geometry-Adaptive Meta-Learning in Riemannian Manifolds. (in Chinese)  [[pdf]](https://drive.google.com/file/d/1SDqUKJvdMoeUI0EDsTSWik7hzVxFrdZG/view?usp=sharing)
 
 **Zhi Gao**, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, Yuwei Wu. Exploring Data Geometry for Continual Learning. **CVPR 2023**. [[pdf]](https://drive.google.com/file/d/1jzeghLQvqpGa1FQYLNRJfT_ntCMn1mb9/view?usp=sharing)
 
