@@ -67,3 +67,6 @@ Jindou Dai, Yuwei Wu, **Zhi Gao**, Yunde Jia. Infinite-dimensional Feature Aggre
 **Zhi Gao**, Yuwei Wu, Xingyuan Bu, Tan Yu, Junsong Yuan, Yunde Jia. Learning a robust representation via a deep network on symmetric positive definite manifolds. **Pattern Recognition 2019**. [[pdf]](https://drive.google.com/open?id=1lpjNrloAoc6GPXq92iSYyzGn1i5O7aX_)
 
 Xingyuan Bu, Yuwei Wu, **Zhi Gao**, Yunde Jia. Deep convolutional network with locality and sparsity constraints for texture classification. **Pattern Recognition 2019**. [[pdf]](https://drive.google.com/open?id=17G69lfchEm7hVdIiE8NimtZsWZScZmB3)
+
+### Reward
+ACM SIGAi China Doctoral Dissertation Awar 2023
