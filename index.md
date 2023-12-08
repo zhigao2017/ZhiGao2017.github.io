@@ -4,7 +4,7 @@
 
 I am a postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University, working with Prof. Song-Chun Zhu. (北京大学智能学院)
 
-Now, I am also a visiting researcher at the machine learning group in Beijing Institute for General Artificial Intelligence (北京通用人工智能研究院). 
+Now, I am also a visiting researcher at the machine learning group in Beijing Institute for General Artificial Intelligence (北京通用人工智能研究院). We are recruiting interns and full-time staff.
 
 E-mail: zhi.gao@pku.edu.cn, gaozhi_2017@bit.edu.cn, and gaozhi_2017@126.com
 
