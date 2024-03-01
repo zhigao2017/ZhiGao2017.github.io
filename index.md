@@ -29,7 +29,7 @@ My research interests lie in computer vision and machine learning. Concretely,
 
 ## Publications
 
-### 2023 
+### 2024 
 
 **Zhi Gao**, Yuntao Du, Xintong Zhang, Xiaojian Ma, Wenjuan Han, Song-Chun Zhu, Qing Li. CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update. **CVPR 2024**.  [[pdf]](https://arxiv.org/abs/2312.10908)
 
