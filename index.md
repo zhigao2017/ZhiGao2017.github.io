@@ -31,6 +31,10 @@ My research interests lie in computer vision and machine learning. Concretely,
 
 ### 2024 
 
+高志、武玉伟、贾云得. 混合曲率空间中的几何自适应元学习方法. **计算机学报 2024**
+
+Yue Fan, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, **Zhi Gao**, Qing Li. VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding. **ECCV 2024**.
+
 **Zhi Gao**, Yuntao Du, Xintong Zhang, Xiaojian Ma, Wenjuan Han, Song-Chun Zhu, Qing Li. CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update. **CVPR 2024**.  [[pdf]](https://arxiv.org/abs/2312.10908)
 
 
