@@ -19,11 +19,11 @@ I received my Ph.D. degree in computer science from the Beijing Institute of Tec
 ## Research Interest
 My research interests lie in computer vision and machine learning. Concretely, 
 
-(1) I am interested in the **structure and geometry of data space**. In my graduate studies, I work on learning representations on Riemannian manifolds to match some properties of data. 
+(1) I am interested in **multimodal agents**. Recently, I am working on powerful multimodal models, closed-loop frameworks, and feedback learning, through which agents could learn from human-robot interaction and fast adapt to new environments.
 
-(2) I am interested in **knowledge** mining, representation, and reasoning in machine learning, which make algorithms more robust, interpretable, and trustworthy. 
+(2) I am interested in **structure and geometry of data space**. In my graduate studies, I work on learning representations on Riemannian manifolds to match some properties of data. 
 
-(3) I am interested in machine learning in the **open environment** where insufficient annotation is provided and there is distribution shift between data, such as few-shot learning, meta-learning, self-supervised learning, and continual learning. 
+(3) I am interested in machine learning in the **open environment** where insufficient annotation is provided and there is distribution shift between data, such as few-shot learning, meta-learning, self-supervised learning, transfer learning, and continual learning. 
 
 
 
@@ -31,7 +31,7 @@ My research interests lie in computer vision and machine learning. Concretely,
 
 ### 2024 
 
-高志、武玉伟、贾云得. 混合曲率空间中的几何自适应元学习方法. **计算机学报 2024**
+**高志**、武玉伟、贾云得. 混合曲率空间中的几何自适应元学习方法. **计算机学报 2024**.
 
 Yue Fan, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, **Zhi Gao**, Qing Li. VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding. **ECCV 2024**.
 
