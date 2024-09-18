@@ -1,6 +1,6 @@
 ## Zhi Gao's Homepage  (高志)
 
-![Image](https://drive.google.com/file/d/1ooX7T9V3SEWszMRo2t7zPo2_ed2WEfjk/view?usp=drive_link)
+![Image](zhigao_small_small.jpg)
 
 I am a postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University, working with Prof. Song-Chun Zhu. (北京大学智能学院)
 
