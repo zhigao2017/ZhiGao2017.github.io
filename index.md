@@ -1,4 +1,4 @@
-## Zhi Gao's Homepage  (高志)
+## Zhi Gao (高志)
 
 ![Image](zhigao_small_small.jpg)
 
