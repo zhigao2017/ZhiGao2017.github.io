@@ -30,6 +30,7 @@ My research interests lie in computer vision and machine learning. Concretely,
 ## Publications
 
 ### 2024 
+Pengxiang Li<sup>+</sup>, **Zhi Gao**<sup>+</sup>, Bofei Zhang<sup>+</sup>, Tao Yuan, Yuwei Wu, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, Qing Li. FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models. **NeurIPS 2024**. (co-first author)
 
 **高志**、武玉伟、贾云得. 混合曲率空间中的几何自适应元学习方法. **计算机学报 2024**.
 
