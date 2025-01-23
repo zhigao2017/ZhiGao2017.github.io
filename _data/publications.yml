@@ -1,5 +1,29 @@
 main:
 
+
+
+  - title: "Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage"
+    authors: <strong>Zhi Gao*</strong>, Bofei Zhang*, Pengxiang Li*, Xiaojian Ma, Yue Fan, Tao Yuan, Yuwei Wu,Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2412.15606
+    code: https://github.com/mat-agent/MAT-Agent
+    image: ./assets/img/iclr2025_2.png
+    page: https://mat-agent.github.io/
+    # notes: Post
+
+
+  - title: "MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge"
+    authors: Yuntao Du*, Kailin Jiang*, Zhi Gao, Chenrui Shi, Zilong Zheng, Siyuan Qi, Qing Li
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025
+    pdf: https://openreview.net/pdf?id=v8qABSeeKO
+    # code: https://github.com/MM-FIRE/FIRE
+    image: ./assets/img/iclr2025_1.jpg
+    # page: https://mm-fire.github.io/
+    # notes: Post
+
+
   - title: "FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models"
     authors: Pengxiang Li*, <strong>Zhi Gao*</strong>, Bofei Zhang*, Tao Yuan, Yuwei Wu, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
     conference_short: NeurIPS
@@ -21,7 +45,7 @@ main:
 
 
   - title: "VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding"
-    authors: Yue Fan, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, <strong>Zhi Gao</strong>, Qing Li
+    authors: Yue Fan*, Xiaojian Ma*, Rujie Wu, Yuntao Du, Jiaqi Li, <strong>Zhi Gao</strong>, Qing Li
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024
     pdf: https://arxiv.org/pdf/2403.11481
