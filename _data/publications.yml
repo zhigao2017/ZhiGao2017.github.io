@@ -1,6 +1,16 @@
 main:
 
 
+  - title: "Large-Scale Riemannian Meta-Optimization via Subspace Adaptation"
+    authors: Peilin Yu, Yuwei Wu, Zhi Gao+, Xiaomeng Fan, Yunde Jia (Corresponding Author)
+    conference_short: CVIU
+    conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://drive.google.com/file/d/1b4H-F7FtrT9Rq_Fo0lj30zBM4v2gtXXa/view?usp=sharing
+    # code: https://github.com/mat-agent/MAT-Agent
+    image: ./assets/img/cviu2025.png
+    # page: https://mat-agent.github.io/
+    # notes: Post
+
 
   - title: "Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage"
     authors: <strong>Zhi Gao*</strong>, Bofei Zhang*, Pengxiang Li*, Xiaojian Ma, Yue Fan, Tao Yuan, Yuwei Wu,Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
