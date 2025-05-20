@@ -34,6 +34,8 @@ I received my Ph.D. degree in computer science from the Beijing Institute of Tec
 
 ## Others
 
+- **A multi-agent GUI system for MacOS**. [[Page]](https://computer-use-agents.github.io/macos/) [[Code]](https://github.com/Computer-use-agents/MacOS-Agent)
+
 - **My thesis**. Geometry-Adaptive Meta-Learning in Riemannian Manifolds. (in Chinese, 黎曼流形中的几何自适应元学习方法)  [[pdf]](https://drive.google.com/file/d/1SDqUKJvdMoeUI0EDsTSWik7hzVxFrdZG/view?usp=sharing)
 
 
