@@ -1,0 +1,34 @@
+main:
+
+  - title: "Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning"
+    authors: Pengxiang Li*, <strong>Zhi Gao*</strong>, Bofei Zhang, Yapeng Mi, Xiaojian Ma, Chenrui Shi, Tao Yuan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2504.21561
+    code: https://github.com/SPORT-Agents/SPORT-Agents
+    image: ./assets/img/sport.jpg
+    page: https://sport-agents.github.io/
+    # notes: Post
+
+
+  - title: "TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials"
+    authors: Bofei Zhang*, Zirui Shang*, <strong>Zhi Gao*</strong>, Wang Zhang, Rui Xie, Xiaojian Ma, Tao Yuan, Xinxiao Wu, Song-Chun Zhu, Qing Li (*Co-first author)
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2504.12679
+    code: https://github.com/TongUI-agent/TongUI-agent?tab=readme-ov-file
+    image: ./assets/img/tongui.png
+    page: https://tongui-agent.github.io/
+    # notes: Post
+
+
+
+  - title: "Building LLM Agents by Incorporating Insights from Computer Systems"
+    authors: Yapeng Mi, <strong>Zhi Gao</strong>, Xiaojian Ma, Qing Li
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/abs/2504.04485
+    # code: https://github.com/TongUI-agent/TongUI-agent?tab=readme-ov-file
+    image: ./assets/img/computersys.jpg
+    # page: https://tongui-agent.github.io/
+    # notes: Post
