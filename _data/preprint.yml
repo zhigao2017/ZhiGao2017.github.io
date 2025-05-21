@@ -1,5 +1,15 @@
 main:
 
+  - title: "Memory-Centric Embodied Question Answer"
+    authors: Mingliang Zhai, <strong>Zhi Gao<strong>, Yuwei Wu, Yunde Jia
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2505.13948
+    code: https://github.com/memory-eqa/MemoryEQA
+    image: ./assets/img/memoryeqa.jpg
+    page: memory-eqa.github.io
+    # notes: Post
+
   - title: "Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning"
     authors: Pengxiang Li*, <strong>Zhi Gao*</strong>, Bofei Zhang, Yapeng Mi, Xiaojian Ma, Chenrui Shi, Tao Yuan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
     # conference_short: CVIU
