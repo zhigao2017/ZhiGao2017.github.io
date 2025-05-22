@@ -1,5 +1,16 @@
 main:
 
+
+  - title: "Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL"
+    authors: Xintong Zhang, Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaowen Zhang, Yang Liu, Tao Yuan, Yuwei Wu1, Yunde Jia, Song-Chun Zhu, Qing Li
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2505.15436
+    code: https://github.com/cof-reasoning/chain-of-focus
+    image: ./assets/img/cof.jpg
+    page: https://https://cof-reasoning.github.io/
+    # notes: Post
+
   - title: "Memory-Centric Embodied Question Answer"
     authors: Mingliang Zhai, <strong>Zhi Gao</strong>, Yuwei Wu, Yunde Jia
     # conference_short: CVIU
