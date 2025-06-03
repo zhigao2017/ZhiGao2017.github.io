@@ -34,9 +34,9 @@ I received my Ph.D. degree in computer science from the Beijing Institute of Tec
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Others
-- **Talk: Multi-modal Agent Tuning**. [[PDF]](https://docs.google.com/presentation/d/1Qpi_Hr5gA7Ui40rAyDDn8BcI8ArbvBl0/edit?usp=drive_link&ouid=111446216414248154601&rtpof=true&sd=true/) 
+- **Talk: Multi-modal Agent Tuning**. [[PDF]](https://drive.google.com/file/d/11m3JkTKgDsWajIPH_sT3_zWkgb_qLvHN/view?usp=drive_link) 
 
-- **Talk: Riemannian Bi-Level Optimization in Machine Learning**. [[PDF]](https://docs.google.com/presentation/d/1ps5g2noDtbtBKuzh9MvsFc_nbIcau2cU/edit?usp=drive_link&ouid=111446216414248154601&rtpof=true&sd=true) 
+- **Talk: Riemannian Bi-Level Optimization in Machine Learning**. [[PDF]](https://drive.google.com/file/d/1Lq2IKvu4lDrUgdE-K6CefsAKu4oqqXhA/view?usp=drive_link) 
 
 - **A multi-agent GUI system for MacOS**. [[Page]](https://computer-use-agents.github.io/macos/) [[Code]](https://github.com/Computer-use-agents/MacOS-Agent)
 
