@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University (北京大学智能学院), working with Prof. Song-Chun Zhu. Now, I am also a researcher at the machine learning lab at Beijing Institute for General Artificial Intelligence (BIGAI, 北京通用人工智能研究院). 
+I am a postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University (北京大学智能学院), working with Prof. Song-Chun Zhu. Now, 
+
 
 We are recruiting interns and full-time staff.
 
