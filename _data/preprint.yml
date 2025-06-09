@@ -1,8 +1,18 @@
 main:
 
+  - title: "VUDG: A Dataset for Video Understanding Domain Generalization"
+    authors: Ziyi Wang, <strong>Zhi Gao+</strong>, Boxuan Yu, Zirui Dai, Yuxiang Son, Qingyuan Lu, Jin Chen, Xinxiao Wu
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2505.24346
+    # code: https://github.com/cof-reasoning/chain-of-focus
+    image: ./assets/img/vudg.jpg
+    page: https://vudg-video.github.io/
+    # notes: Post
+
 
   - title: "Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL"
-    authors: Xintong Zhang*, <strong>Zhi Gao*</strong>,, Bofei Zhang, Pengxiang Li, Xiaowen Zhang, Yang Liu, Tao Yuan, Yuwei Wu1, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
+    authors: Xintong Zhang*, <strong>Zhi Gao*</strong>, Bofei Zhang, Pengxiang Li, Xiaowen Zhang, Yang Liu, Tao Yuan, Yuwei Wu1, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
     # conference_short: CVIU
     # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
     pdf: https://arxiv.org/pdf/2505.15436
