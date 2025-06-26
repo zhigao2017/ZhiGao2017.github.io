@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University (北京大学智能学院), working with Prof. Song-Chun Zhu. Now, 
+I am an associate professor (tenure-track) at the School of Computer Science and Technology, Beijing Institute of Technology (BIT). Before that, I was a postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University (北京大学智能学院), working with Prof. Song-Chun Zhu. 
 
 
-We are recruiting interns and full-time staff.
+**E-mail**: zhi.gao@bit.edu.cn, zhi.gao@pku.edu.cn, and gaozhi_2017@126.com
 
-**E-mail**: zhi.gao@pku.edu.cn, zhi.gao@bit.edu.cn, and gaozhi_2017@126.com
+## Recruitment
+
+I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on machine learning, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组)[[详细招生信息]](https://wu-yuwei-bit.github.io/recruitment/%E5%AA%92%E4%BD%93%E8%AE%A1%E7%AE%97%E4%B8%8E%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%9B%E7%94%9F%E8%AF%B4%E6%98%8EV5.pdf)
 
 
 ## Education
