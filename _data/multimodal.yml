@@ -1,0 +1,47 @@
+main:
+
+
+  - title: "When Large Multimodal Models Confront Evolving Knowledge: Challenges and Pathways"
+    authors: Kailin Jiang, Yuntao Du, Yukai Ding, Yuchen Ren, Ning Jiang, <strong>Zhi Gao</strong>, Zilong Zheng, Lei Liu, Bin Li, Qing Li
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2505.24449?
+    # code: https://github.com/cof-reasoning/chain-of-focus
+    image: ./assets/img/whenmeet.jpg
+    # page: https://https://cof-reasoning.github.io/
+    # notes: Post
+
+
+  - title: "Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL"
+    authors: Xintong Zhang*, <strong>Zhi Gao*</strong>, Bofei Zhang, Pengxiang Li, Xiaowen Zhang, Yang Liu, Tao Yuan, Yuwei Wu1, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2505.15436
+    code: https://github.com/cof-reasoning/chain-of-focus
+    image: ./assets/img/cof.jpg
+    page: https://https://cof-reasoning.github.io/
+    # notes: Post
+
+  - title: "MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge"
+    authors: Yuntao Du, Kailin Jiang, <strong>Zhi Gao</strong>, Chenrui Shi, Zilong Zheng, Siyuan Qi, Qing Li
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025
+    pdf: https://openreview.net/pdf?id=v8qABSeeKO
+    # code: https://github.com/MM-FIRE/FIRE
+    image: ./assets/img/iclr2025_1.jpg
+    # page: https://mm-fire.github.io/
+    # notes: Post
+
+
+  - title: "FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models"
+    authors: Pengxiang Li*, <strong>Zhi Gao*</strong>, Bofei Zhang*, Tao Yuan, Yuwei Wu, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, D&B Track, 2024
+    pdf: https://arxiv.org/pdf/2407.11522
+    code: https://github.com/MM-FIRE/FIRE
+    image: ./assets/img/neurips2024.png
+    page: https://mm-fire.github.io/
+    # notes: Post
+
+
+

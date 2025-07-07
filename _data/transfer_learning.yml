@@ -1,0 +1,33 @@
+main:
+
+  - title: "VUDG: A Dataset for Video Understanding Domain Generalization"
+    authors: Ziyi Wang, <strong>Zhi Gao+</strong>, Boxuan Yu, Zirui Dai, Yuxiang Son, Qingyuan Lu, Jin Chen, Xinxiao Wu
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2505.24346
+    # code: https://github.com/cof-reasoning/chain-of-focus
+    image: ./assets/img/vudg.jpg
+    page: https://vudg-video.github.io/
+    # notes: Post
+
+  - title: "Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization"
+    authors: Ziyi Wang, <strong>Zhi Gao</strong>, Jin Chen, Qingjie Zhao, Xinxiao Wu, Jiebo Luo,
+    # conference_short: CVIU
+    conference: IEEE Transactions on Multimedia <strong>(T-MM)</strong>, 2025
+    # pdf: https://arxiv.org/pdf/2505.24346
+    # code: https://github.com/cof-reasoning/chain-of-focus
+    image: ./assets/img/refocus.jpg
+    # page: https://vudg-video.github.io/
+    # notes: Post
+
+
+
+  - title: "Meta-causal Learning for Single Domain Generalization"
+    authors: Jin Chen*, <strong>Zhi Gao*</strong>, Xinxiao Wu, Jiebo Luo (*Co-first author)
+    conference_short: CVPR
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023
+    pdf: https://arxiv.org/pdf/2304.03709
+    image: ./assets/img/cvpr20232.png
+    code: https://github.com/zhigao2017/Meta-causal
+    # notes: Post
+

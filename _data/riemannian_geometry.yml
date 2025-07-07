@@ -1,0 +1,202 @@
+main:
+
+
+  - title: "A Set-to-Set Distance Measure in Hyperbolic Space"
+    authors: Pengxiang Li, Wei Wu, <strong>Zhi Gao</strong>, Xiaomeng Fan, Peilin Yu, Yuwei Wu, Zhipeng Lu, Yunde Jia, Mehrtash Harandi
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2506.18529
+    # code: https://github.com/large-scale-RMO/large-scale-RMO
+    image: ./assets/img/set2set.jpg
+    # page: https://mat-agent.github.io/
+    # notes: Post
+
+
+  - title: "Geometry-aware Distance Measure for Diverse Hierarchical Structures in Hyperbolic Spaces"
+    authors: Pengxiang Li, Yuwei Wu, <strong>Zhi Gao</strong>, Xiaomeng Fan, Wei Wu, Zhipeng Lu, Yunde Jia, Mehrtash Harandi
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2506.18533
+    # code: https://github.com/large-scale-RMO/large-scale-RMO
+    image: ./assets/img/adaptive_metric.jpg
+    # page: https://mat-agent.github.io/
+    # notes: Post
+
+
+  - title: "Hyperbolic Dual Feature Augmentation for Open-Environment"
+    authors: Peilin Yu, Yuwei Wu, <strong>Zhi Gao</strong>, Xiaomeng Fan, Shuo Yang, Yunde Jia
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2506.08906?
+    # code: https://github.com/large-scale-RMO/large-scale-RMO
+    image: ./assets/img/dual.jpg
+    # page: https://mat-agent.github.io/
+    # notes: Post
+    
+
+
+  - title: "Large-Scale Riemannian Meta-Optimization via Subspace Adaptation"
+    authors: Peilin Yu, Yuwei Wu+, <strong>Zhi Gao+</strong>, Xiaomeng Fan, Yunde Jia (+Corresponding Author)
+    conference_short: CVIU
+    conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://drive.google.com/file/d/1b4H-F7FtrT9Rq_Fo0lj30zBM4v2gtXXa/view?usp=sharing
+    code: https://github.com/large-scale-RMO/large-scale-RMO
+    image: ./assets/img/cviu2025.jpg
+    # page: https://mat-agent.github.io/
+    # notes: Post
+
+
+
+  - title: "混合曲率空间中的几何自适应元学习方法"
+    authors: <strong>高志</strong>, 武玉伟, 贾云得
+    conference_short: 计算机学报
+    conference: 计算机学报, 2024.
+    pdf: http://cjc.ict.ac.cn/online/onlinepaper/gz-2024928105658.pdf
+    image: ./assets/img/cjc2024.png
+    # notes: Post
+
+
+
+  - title: "Exploring Data Geometry for Continual Learning"
+    authors: <strong>Zhi Gao</strong>, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, Yuwei Wu 
+    conference_short: CVPR
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023
+    pdf: https://arxiv.org/pdf/2304.03931
+    image: ./assets/img/cvpr20231.png
+    # notes: Post
+
+
+
+  - title: "Learning to Optimize on Riemannian Manifolds"
+    authors: <strong>Zhi Gao</strong>, Yuwei Wu, Xiaomeng Fan, Mehrtash Harandi, Yunde Jia
+    conference_short: T-PAMI
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(T-PAMI)</strong>, 2023
+    pdf: https://drive.google.com/file/d/1OCfsMvEFgzjam8SRyI8SanckLIiSJWvN/view?usp=sharing
+    image: ./assets/img/pami20221.png
+    code: https://github.com/ZhiGaomcislab/learningriemannianoptimization
+    # notes: Post
+
+
+
+  - title: "Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data"
+    authors: <strong>Zhi Gao</strong>, Yuwei Wu, Mehrtash Harandi, Yunde Jia
+    conference_short: T-PAMI
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(T-PAMI)</strong>, 2023
+    pdf: https://drive.google.com/file/d/1h9sGfF_azEkRPJvYNwinGTmE8nNCEDcZ/view?usp=sharing
+    image: ./assets/img/pami20222.png
+    code: https://github.com/zhigao2017/CurAML
+    # notes: Post
+
+
+  - title: "Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds"
+    authors: <strong>Zhi Gao</strong>, Yuwei Wu, Mehrtash Harandi, Yunde Jia
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2022
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/de7858e3e7f9f0f7b2c7bfdc86f6d928-Paper-Conference.pdf
+    image: ./assets/img/neurips2022.png
+    code: https://github.com/zhigao2017/Hyperbolic_Feature_Augmentation
+    # notes: Post
+
+
+  - title: "Efficient Riemannian Meta-Optimization by Implicit Differentiation"
+    authors: Xiaomeng Fan, Yuwei Wu, <strong>Zhi Gao</strong>, Yunde Jia, Mehrtash Harandi
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2022
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/20287
+    image: ./assets/img/aaai2022.png
+    code: https://github.com/XiaomengFanmcislab/I-RMM
+    # notes: Post
+
+
+  - title: "Curvature Generation in Hyperbolic Spaces for Few-Shot Learning"
+    authors: <strong>Zhi Gao</strong>, Yuwei Wu, Yunde Jia, Mehrtash Harandi
+    conference_short: ICCV
+    conference: IEEE InternationalConference on Computer Vision <strong>(ICCV)</strong>, 2021
+    pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Curvature_Generation_in_Curved_Spaces_for_Few-Shot_Learning_ICCV_2021_paper.pdf
+    image: ./assets/img/iccv2021.png
+    code: https://github.com/ZhiGaomcislab/CurvatureGeneration_FSL
+    # notes: Post
+
+
+  - title: "Learning a Gradient-free Riemannian Optimizer on Tangent Spaces"
+    authors: Xiaomeng Fan*, <strong>Zhi Gao*</strong>, Yuwei Wu, Yunde Jia, Mehrtash Harandi (*Co-first author)
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2021
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/16905
+    image: ./assets/img/aaai2021.png
+    code: https://github.com/XiaomengFanmcislab/Learning-a-Gradient-free-Riemannian-Optimizer-on-Tangent-Spaces
+    # notes: Post
+
+
+
+  - title: "A Hyperbolic-to-Hyperbolic Graph Convolutional Network"
+    authors: Jindou Dai, Yuwei Wu, <strong>Zhi Gao</strong>, Yunde Jia
+    conference_short: CVPR
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021
+    pdf: https://arxiv.org/pdf/2104.06942
+    image: ./assets/img/cvpr2021.png
+    code: https://github.com/JindouDai/H2H-GCN
+    # notes: Post
+
+
+  - title: "Infinite-dimensional Feature Aggregation via a Factorized Bilinear Model"
+    authors: Jindou Dai, Yuwei Wu, <strong>Zhi Gao</strong>, Yunde Jia
+    conference_short: PR
+    conference: Pattern Recognition <strong>(PR)</strong>, 2021
+    pdf: https://drive.google.com/file/d/1GNL73OI3ycUq5LngQ_sejDI6Fe3FZH_h/view?usp=sharing
+    image: ./assets/img/pr2021.png
+    # code: https://github.com/JindouDai/H2H-GCN
+    # notes: Post
+
+
+  - title: "Learning to Optimize on SPD Manifolds"
+    authors: <strong>Zhi Gao</strong>, Yuwei Wu, Yunde Jia, Mehrtash Harandi
+    conference_short: CVPR
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020
+    pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Learning_to_Optimize_on_SPD_Manifolds_CVPR_2020_paper.pdf
+    image: ./assets/img/cvpr2020.png
+    code: https://github.com/ZhiGaomcislab/Learning-to-optimize-on-SPD-manifolds
+    # notes: Post
+
+
+
+  - title: "Revisiting Bilinear Pooling: A Coding Perspective"
+    authors: <strong>Zhi Gao</strong>, Yuwei Wu, Xiaoxun Zhang, Jindou Dai, Yunde Jia, Mehrtash Harandi
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2020
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/5811
+    image: ./assets/img/aaai2020.png
+    code: https://github.com/ZhiGaomcislab/FactorizedBilinearCoding
+    # notes: Post
+
+
+
+  - title: "A Robust Distance Measure for Similarity-Based Classification on the SPD Manifold"
+    authors: <strong>Zhi Gao</strong>, Yuwei Wu, Mehrtash Harandi, Yunde Jia
+    conference_short: T-NNLS
+    conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(T-NNLS)</strong>, 2019
+    pdf: https://drive.google.com/open?id=1oKezQbXILLbEclTZj0VkZOBeDoI8UUIZ
+    image: ./assets/img/tnnls2019.png
+    code: https://github.com/zhigao2017/PSSSD
+    # notes: Post
+
+
+
+  - title: "Learning a robust representation via a deep network on symmetric positive definite manifolds"
+    authors: <strong>Zhi Gao</strong>, Yuwei Wu, Xingyuan Bu, Tan Yu, Junsong Yuan, Yunde Jia
+    conference_short: PR
+    conference: Pattern Recognition <strong>(PR)</strong>, 2021
+    pdf: https://drive.google.com/open?id=1lpjNrloAoc6GPXq92iSYyzGn1i5O7aX_
+    image: ./assets/img/pr20191.png
+    code: https://github.com/zhigao2017/Kernel-SPD-Pooling
+    # notes: Post
+
+
+  - title: "Deep convolutional network with locality and sparsity constraints for texture classification"
+    authors: Xingyuan Bu, Yuwei Wu, <strong>Zhi Gao</strong>, Yunde Jia
+    conference_short: PR
+    conference: Pattern Recognition <strong>(PR)</strong>, 2021
+    pdf: https://drive.google.com/open?id=17G69lfchEm7hVdIiE8NimtZsWZScZmB3
+    image: ./assets/img/pr20192.png
+    # code: https://github.com/zhigao2017/Kernel-SPD-Pooling
+    # notes: Post

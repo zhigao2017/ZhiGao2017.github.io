@@ -1,0 +1,80 @@
+main:
+
+
+  - title: "Memory-Centric Embodied Question Answer"
+    authors: Mingliang Zhai, <strong>Zhi Gao</strong>, Yuwei Wu, Yunde Jia
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2505.13948
+    code: https://github.com/memory-eqa/MemoryEQA
+    image: ./assets/img/memoryeqa.jpg
+    page: https://memory-eqa.github.io
+    # notes: Post
+
+
+
+  - title: "Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning"
+    authors: Pengxiang Li*, <strong>Zhi Gao*</strong>, Bofei Zhang, Yapeng Mi, Xiaojian Ma, Chenrui Shi, Tao Yuan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2504.21561
+    code: https://github.com/SPORT-Agents/SPORT-Agents
+    image: ./assets/img/sport.jpg
+    page: https://sport-agents.github.io/
+    # notes: Post
+
+
+  - title: "TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials"
+    authors: Bofei Zhang*, Zirui Shang*, <strong>Zhi Gao*</strong>, Wang Zhang, Rui Xie, Xiaojian Ma, Tao Yuan, Xinxiao Wu, Song-Chun Zhu, Qing Li (*Co-first author)
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2504.12679
+    code: https://github.com/TongUI-agent/TongUI-agent?tab=readme-ov-file
+    image: ./assets/img/tongui.png
+    page: https://tongui-agent.github.io/
+    # notes: Post
+
+
+
+  - title: "Building LLM Agents by Incorporating Insights from Computer Systems"
+    authors: Yapeng Mi, <strong>Zhi Gao</strong>, Xiaojian Ma, Qing Li
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/abs/2504.04485
+    # code: https://github.com/TongUI-agent/TongUI-agent?tab=readme-ov-file
+    image: ./assets/img/computersys.jpg
+    # page: https://tongui-agent.github.io/
+    # notes: Post
+
+
+  - title: "Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage"
+    authors: <strong>Zhi Gao*</strong>, Bofei Zhang*, Pengxiang Li*, Xiaojian Ma, Yue Fan, Tao Yuan, Yuwei Wu,Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2412.15606
+    code: https://github.com/mat-agent/MAT-Agent
+    image: ./assets/img/iclr2025_2.png
+    page: https://mat-agent.github.io/
+    # notes: Post
+
+
+  - title: "VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding"
+    authors: Yue Fan*, Xiaojian Ma*, Rujie Wu, Yuntao Du, Jiaqi Li, <strong>Zhi Gao</strong>, Qing Li
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024
+    pdf: https://arxiv.org/pdf/2403.11481
+    code: https://github.com/YueFan1014/VideoAgent
+    image: ./assets/img/eccv2024.png
+    page: https://videoagent.github.io/
+    # notes: Post
+
+
+  - title: "CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update"
+    authors: <strong>Zhi Gao</strong>, Yuntao Du, Xintong Zhang, Xiaojian Ma, Wenjuan Han, Song-Chun Zhu, Qing Li
+    conference_short: CVPR
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024
+    pdf: https://arxiv.org/pdf/2312.10908
+    code: https://github.com/clova-tool/CLOVA-tool
+    image: ./assets/img/cvpr2024.png
+    page: https://clova-tool.github.io/
+    # notes: Post
