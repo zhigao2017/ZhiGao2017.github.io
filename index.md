@@ -24,12 +24,6 @@ I received my Ph.D. degree in computer science from the Beijing Institute of Tec
 ## Research Interests
 
 I am interested in computer vision and machine learning, including
-<!-- - **Computer Vision:** Multimodal Models, Multimodal Agents
-- **Machine Learning:** Geometric Learning, Continual Learning, Meta Learning, Few-Shot Learning, Transformer Learning -->
-<!-- - **AI Agent** 
-- **Multimodal Learning** 
-- **Transfer Learning** 
-- **Riemannian Geometry**  -->
 
 - [**AI Agent**](#ai-agent)
 - [**Multimodal Learning**](#multimodal-learning)
