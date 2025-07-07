@@ -1,4 +1,4 @@
-<h2 id="multimodal" style="margin: 2px 0px -15px;">Multimodal</h2>
+<h2 id="multimodal" style="margin: 2px 0px -15px;">Multimodal Learning</h2>
 
 <div class="publications">
 <ol class="bibliography">

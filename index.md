@@ -23,8 +23,18 @@ I received my Ph.D. degree in computer science from the Beijing Institute of Tec
 
 ## Research Interests
 
-- **Computer Vision:** Multimodal Models, Multimodal Agents
-- **Machine Learning:** Geometric Learning, Continual Learning, Meta Learning, Few-Shot Learning, Transformer Learning
+I am interested in computer vision and machine learning, including
+<!-- - **Computer Vision:** Multimodal Models, Multimodal Agents
+- **Machine Learning:** Geometric Learning, Continual Learning, Meta Learning, Few-Shot Learning, Transformer Learning -->
+<!-- - **AI Agent** 
+- **Multimodal Learning** 
+- **Transfer Learning** 
+- **Riemannian Geometry**  -->
+
+- [**AI Agent**](#ai-agent)
+- [**Multimodal Learning**](#multimodal-learning)
+- [**Transfer Learning**](#transfer-learning)
+- [**Riemannian Geometry**](#riemannian-geometry)
 
 <!-- ## News
 
@@ -33,15 +43,27 @@ I received my Ph.D. degree in computer science from the Beijing Institute of Tec
 
 {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/ai_agent.md %}
+<!-- {% include_relative _includes/ai_agent.md %}
 
 {% include_relative _includes/multimodal.md %}
 
 {% include_relative _includes/transfer_learning.md %}
 
-{% include_relative _includes/riemannian_geometry.md %}
+{% include_relative _includes/riemannian_geometry.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
+
+<a id="ai-agent"></a>
+{% include_relative _includes/ai_agent.md %}
+
+<a id="multimodal-learning"></a>
+{% include_relative _includes/multimodal.md %}
+
+<a id="transfer-learning"></a>
+{% include_relative _includes/transfer_learning.md %}
+
+<a id="riemannian-geometry"></a>
+{% include_relative _includes/riemannian_geometry.md %}
 
 ## Others
 - **Talk: Multi-modal Agent Tuning**. [[PDF]](https://drive.google.com/file/d/11m3JkTKgDsWajIPH_sT3_zWkgb_qLvHN/view?usp=drive_link) 
