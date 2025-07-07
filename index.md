@@ -23,12 +23,12 @@ I received my Ph.D. degree in computer science from the Beijing Institute of Tec
 
 ## Research Interests
 
-I am interested in computer vision and machine learning, including
+I am interested in computer vision and machine learning, including <strong>AI Agent</strong>, <strong>Multimodal Learning</strong>, <strong>Transfer Learning</strong>, and <strong>Riemannian Geometry</strong>. You can click them for more details.
 
-- [**AI Agent**](#ai-agent)
-- [**Multimodal Learning**](#multimodal-learning)
-- [**Transfer Learning**](#transfer-learning)
-- [**Riemannian Geometry**](#riemannian-geometry)
+- <a href="#ai-agent" style="color: blue; text-decoration: underline;"><strong>AI Agent</strong></a>
+- <a href="#multimodal-learning" style="color: blue; text-decoration: underline;"><strong>Multimodal Learning</strong></a>
+- <a href="#transfer-learning" style="color: blue; text-decoration: underline;"><strong>Transfer Learning</strong></a>
+- <a href="#riemannian-geometry" style="color: blue; text-decoration: underline;"><strong>Riemannian Geometry</strong></a>
 
 <!-- ## News
 
