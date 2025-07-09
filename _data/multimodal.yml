@@ -1,8 +1,7 @@
 main:
 
-
   - title: "When Large Multimodal Models Confront Evolving Knowledge: Challenges and Pathways"
-    authors: Kailin Jiang, Yuntao Du, Yukai Ding, Yuchen Ren, Ning Jiang, <strong>Zhi Gao</strong>, Zilong Zheng, Lei Liu, Bin Li, Qing Li
+    authors: Kailin Jiang*, Yuntao Du*, Yukai Ding, Yuchen Ren, Ning Jiang, <strong>Zhi Gao</strong>, Zilong Zheng, Lei Liu, Bin Li, Qing Li <img src="/assets/img/email.png" width="16" />
     # conference_short: CVIU
     # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
     pdf: https://arxiv.org/pdf/2505.24449?
@@ -23,7 +22,7 @@ main:
     # notes: Post
 
   - title: "MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge"
-    authors: Yuntao Du, Kailin Jiang, <strong>Zhi Gao</strong>, Chenrui Shi, Zilong Zheng, Siyuan Qi, Qing Li
+    authors: Yuntao Du*, Kailin Jiang*, <strong>Zhi Gao</strong>, Chenrui Shi, Zilong Zheng, Siyuan Qi, Qing Li
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025
     pdf: https://openreview.net/pdf?id=v8qABSeeKO

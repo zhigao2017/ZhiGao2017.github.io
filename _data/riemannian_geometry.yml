@@ -2,7 +2,7 @@ main:
 
 
   - title: "A Set-to-Set Distance Measure in Hyperbolic Space"
-    authors: Pengxiang Li, Wei Wu, <strong>Zhi Gao</strong>, Xiaomeng Fan, Peilin Yu, Yuwei Wu, Zhipeng Lu, Yunde Jia, Mehrtash Harandi
+    authors: Pengxiang Li*, Wei Wu*, <strong>Zhi Gao</strong>, Xiaomeng Fan, Peilin Yu, Yuwei Wu, Zhipeng Lu, Yunde Jia, Mehrtash Harandi
     # conference_short: CVIU
     # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
     pdf: https://arxiv.org/pdf/2506.18529
