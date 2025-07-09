@@ -74,4 +74,4 @@ I am interested in computer vision and machine learning, including <strong>AI Ag
 - **Tutorial on Hyperbolic Representation Learning**. [[Pdf]](https://github.com/Pengxiang-Li/HyperbolicTutorial/blob/main/Tutorial-2023-Hyperbolic-Learning-Theory-and-Applications.pdf)
 
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zhigao2017.ZhiGao2017.github.io) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zhigao2017.ZhiGao2017.github.io)
