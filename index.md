@@ -13,6 +13,8 @@ I am an associate professor (tenure-track) at the School of Computer Science and
 
 I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on machine learning, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组)[[详细招生信息]](https://wu-yuwei-bit.github.io/recruitment/%E5%AA%92%E4%BD%93%E8%AE%A1%E7%AE%97%E4%B8%8E%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%9B%E7%94%9F%E8%AF%B4%E6%98%8EV5.pdf)
 
+欢迎对计算机视觉、机器学习的本科生同学到实验室进行科研实习！
+
 
 ## Education
 
