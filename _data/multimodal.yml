@@ -16,9 +16,9 @@ main:
     # conference_short: CVIU
     # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
     pdf: https://arxiv.org/pdf/2505.15436
-    code: https://github.com/cof-reasoning/chain-of-focus
+    code: https://github.com/xtong-zhang/Chain-of-Focus
     image: ./assets/img/cof.jpg
-    page: https://https://cof-reasoning.github.io/
+    page: https://cof-reasoning.github.io/
     # notes: Post
 
   - title: "MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge"
@@ -26,9 +26,9 @@ main:
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025
     pdf: https://openreview.net/pdf?id=v8qABSeeKO
-    # code: https://github.com/MM-FIRE/FIRE
+    code: https://github.com/MMKE-Bench-ICLR/MMKE-Bench
     image: ./assets/img/iclr2025_1.jpg
-    # page: https://mm-fire.github.io/
+    page: https://mmke-bench-iclr.github.io/
     # notes: Post
 
 
