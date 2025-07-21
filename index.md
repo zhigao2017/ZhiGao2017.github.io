@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an associate professor (tenure-track) at the School of Computer Science and Technology, Beijing Institute of Technology (BIT). Before that, I was a postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University. 
+I am an associate professor (tenure-track) at the School of Computer Science and Technology, Beijing Institute of Technology (BIT). Before that, I was a postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University, with Prof. Song-Chun Zhu. 
 
 
 **E-mail**: zhi.gao@bit.edu.cn, gaozhibit@bit.edu.cn, zhi.gao@pku.edu.cn, and gaozhi_2017@126.com
