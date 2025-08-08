@@ -45,7 +45,7 @@ main:
 
 
   - title: "Large-Scale Riemannian Meta-Optimization via Subspace Adaptation"
-    authors: Peilin Yu, Yuwei Wu+, <strong>Zhi Gao+</strong>, Xiaomeng Fan, Yunde Jia (+Corresponding Author)
+    authors: Peilin Yu, Yuwei Wu<img src="/assets/img/email.png" width="16" />, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Xiaomeng Fan, Yunde Jia
     conference_short: CVIU
     conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
     pdf: https://drive.google.com/file/d/1b4H-F7FtrT9Rq_Fo0lj30zBM4v2gtXXa/view?usp=sharing
