@@ -1,5 +1,14 @@
 main:
 
+  - title: "Curvature Learning for the Generalization of Hyperbolic Neural Networks"
+    authors: Xiaomeng Fan, Yuwei Wu, Zhi Gao<img src="/assets/img/email.png" width="16" />, Mehrtash Harandi, Yunde Jia
+    conference_short: IJCV
+    conference: International Journal of Computer Vision<strong>(IJCV)</strong>, 2025
+    # pdf: https://arxiv.org/pdf/2506.18529
+    # code: https://github.com/large-scale-RMO/large-scale-RMO
+    image: ./assets/img/curvature_ijcv.jpg
+    # page: https://mat-agent.github.io/
+    # notes: Post
 
   - title: "A Set-to-Set Distance Measure in Hyperbolic Space"
     authors: Pengxiang Li*, Wei Wu*, <strong>Zhi Gao</strong>, Xiaomeng Fan, Peilin Yu, Yuwei Wu, Zhipeng Lu, Yunde Jia, Mehrtash Harandi
