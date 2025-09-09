@@ -1,6 +1,16 @@
 main:
 
 
+  - title: "Long-Horizon Visual Imitation Learning via Plan and Code Reflection"
+    authors: Quan Chen*, Chenrui Shi*, Qi Chen, Yuwei Wu, Zhi Gao, Xintong Zhang, Rui Gao, Kun Wu, Yunde Jia
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2509.05368
+    # code: https://github.com/memory-eqa/MemoryEQA
+    image: ./assets/img/longvil.jpg
+    page: https://longvil-agent.github.io/
+    # notes: Post
+
   - title: "Memory-Centric Embodied Question Answer"
     authors: Mingliang Zhai, <strong>Zhi Gao</strong>, Yuwei Wu, Yunde Jia
     # conference_short: CVIU
