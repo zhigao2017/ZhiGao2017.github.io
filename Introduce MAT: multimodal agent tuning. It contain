@@ -1,6 +1,0 @@
-Introduce our MAT project. It provides an agent tuning framework, a dataset, and a T3-agent. The framework automatically generates multimodal trajectories for tool usage. Based on the framework, we obtain the MM-Traj dataset, having 20K trajectory data. Finally, we use the dataset to tune MiniCPM and Qwen-VL, and obtain the T3-agent.
-
-It shows a efficient way to enhance the tool usage ability of multimodal agents.
-
-More details -> https://mat-agent.github.io/
-Our paper -> https://arxiv.org/abs/2412.15606
