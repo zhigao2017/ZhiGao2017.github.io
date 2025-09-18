@@ -1,5 +1,15 @@
 main:
 
+  - title: "Beyond the Seen: Bounded Distribution Estimation for Open-Vocabulary Learning"
+    authors: Xiaomeng Fan, Yuchuan Mao, <strong>Zhi Gao</strong>, Yuwei Wu, Jin Chen, Yunde Jia 
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025
+    # pdf: https://arxiv.org/pdf/2505.24346
+    # code: https://github.com/cof-reasoning/chain-of-focus
+    image: ./assets/img/beyond_seen.png
+    # page: https://vudg-video.github.io/
+    # notes: Post
+
   - title: "VUDG: A Dataset for Video Understanding Domain Generalization"
     authors: Ziyi Wang, <strong>Zhi Gao+</strong>, Boxuan Yu, Zirui Dai, Yuxiang Son, Qingyuan Lu, Jin Chen, Xinxiao Wu
     # conference_short: CVIU

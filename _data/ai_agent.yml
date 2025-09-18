@@ -24,9 +24,9 @@ main:
 
 
   - title: "Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning"
-    authors: Pengxiang Li*, <strong>Zhi Gao*</strong>, Bofei Zhang, Yapeng Mi, Xiaojian Ma, Chenrui Shi, Tao Yuan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
-    # conference_short: CVIU
-    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    authors: Pengxiang Li*, <strong>Zhi Gao*</strong>, Bofei Zhang, Yapeng Mi, Xiaojian Ma, Chenrui Shi, Tao Yuan, Yuwei Wu<img src="/assets/img/email.png" width="16" />, Yunde Jia, Song-Chun Zhu, Qing Li<img src="/assets/img/email.png" width="16" /> 
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025
     pdf: https://arxiv.org/pdf/2504.21561
     code: https://github.com/SPORT-Agents/SPORT-Agents
     image: ./assets/img/sport.jpg
