@@ -1,5 +1,15 @@
 main:
 
+  - title: "EFFICIENT MULTI-TURN RL FOR GUI AGENTS VIA DECOUPLED TRAINING AND ADAPTIVE DATA CURATION"
+    authors: Pengxiang Li*, zechenhu*, Zirui Shang*, Jingrong Wu*, Yang Liu, Hui Liu, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Chenrui Shi, Bofei Zhang, Zihao Zhang, Xiaochuan Shi, Zedong Yu, Yuwei Wu<img src="/assets/img/email.png" width="16" />, Xinxiao Wu, Yunde Jia, Liuyu Xiang, Zhaofeng He, Qing Li<img src="/assets/img/email.png" width="16" /> 
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/abs/2509.23866
+    # code: https://github.com/chenquan2002/LongVIL
+    image: ./assets/img/dart.png
+    page: https://computer-use-agents.github.io/dart-gui/
+    # notes: Post
+
 
   - title: "Long-Horizon Visual Imitation Learning via Plan and Code Reflection"
     authors: Quan Chen*, Chenrui Shi*, Qi Chen, Yuwei Wu, <strong>Zhi Gao</strong>, Xintong Zhang, Rui Gao, Kun Wu, Yunde Jia
