@@ -4,8 +4,8 @@ main:
     authors: Xiaomeng Fan*, Yuchuan Mao*, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Yuwei Wu, Jin Chen, Yunde Jia<img src="/assets/img/email.png" width="16" /> 
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025
-    # pdf: https://arxiv.org/pdf/2505.24346
-    # code: https://github.com/cof-reasoning/chain-of-focus
+    pdf: https://www.arxiv.org/abs/2510.04770
+    code: https://github.com/Beyond-the-Seen-NeurIPS/Beyond-the-Seen
     image: ./assets/img/beyond_seen.png
     # page: https://vudg-video.github.io/
     # notes: Post
