@@ -5,7 +5,7 @@ main:
     conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(T-NNLS)</strong>, 2025
     # pdf: https://arxiv.org/pdf/2508.17232
     # code: https://github.com/large-scale-RMO/large-scale-RMO
-    image: ./assets/img/tnnls2025.jpg
+    image: ./assets/img/tnnls2025.png
     # page: https://mat-agent.github.io/
     # notes: Post
 
