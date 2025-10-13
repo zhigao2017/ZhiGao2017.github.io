@@ -1,4 +1,13 @@
 main:
+  - title: "Riemannian Implicit Differentiation via a Fixed-Point Equation for Riemannian Bi-Level Optimization"
+    authors: Xiaomeng Fan, Yuwei Wu, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Zhipeng Lu<img src="/assets/img/email.png" width="16" />, Feng Li, Mehrtash Harandi, Yunde Jia
+    conference_short: T-NNLS
+    conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(T-NNLS)</strong>, 2025
+    # pdf: https://arxiv.org/pdf/2508.17232
+    # code: https://github.com/large-scale-RMO/large-scale-RMO
+    image: ./assets/img/tnnls2025.jpg
+    # page: https://mat-agent.github.io/
+    # notes: Post
 
   - title: "Curvature Learning for the Generalization of Hyperbolic Neural Networks"
     authors: Xiaomeng Fan, Yuwei Wu, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Mehrtash Harandi, Yunde Jia<img src="/assets/img/email.png" width="16" />
