@@ -1,9 +1,9 @@
-<h2 id="transfer_learning" style="margin: 2px 0px -15px;">Transfer Learning</h2>
+<h2 id="open_environment" style="margin: 2px 0px -15px;">Open-Environment Learning</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.transfer_learning.main %}
+{% for link in site.data.open_environment.main %}
 
 <li>
 <div class="pub-row">

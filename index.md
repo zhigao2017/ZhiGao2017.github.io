@@ -29,7 +29,7 @@ I am interested in computer vision and machine learning, including <strong>AI Ag
 
 - <a href="#ai-agent" style="color: blue; text-decoration: underline;"><strong>AI Agent</strong></a>
 - <a href="#multimodal-learning" style="color: blue; text-decoration: underline;"><strong>Multimodal Learning</strong></a>
-- <a href="#open-environment" style="color: blue; text-decoration: underline;"><strong>Open-Environment</strong></a>
+- <a href="#open-environment" style="color: blue; text-decoration: underline;"><strong>Open-Environment Learning</strong></a>
 - <a href="#riemannian-geometry" style="color: blue; text-decoration: underline;"><strong>Riemannian Geometry</strong></a>
 
 <!-- ## News
