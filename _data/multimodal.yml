@@ -6,7 +6,7 @@ main:
     # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
     pdf: https://arxiv.org/pdf/2510.19316
     # code: https://github.com/cof-reasoning/chain-of-focus
-    image: ./assets/img/koke.jpg
+    image: ./assets/img/koke.png
     page: https://kore-lmm.github.io/
     # notes: Post
 
