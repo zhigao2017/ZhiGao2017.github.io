@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2510.19316
     # code: https://github.com/cof-reasoning/chain-of-focus
     image: ./assets/img/koke.jpg
-    # page: https://https://cof-reasoning.github.io/
+    page: https://kore-lmm.github.io/
     # notes: Post
 
   - title: "When Large Multimodal Models Confront Evolving Knowledge: Challenges and Pathways"
