@@ -32,22 +32,6 @@ I am interested in computer vision and machine learning, including <strong>AI Ag
 - <a href="#open-environment" style="color: blue; text-decoration: underline;"><strong>Open-Environment Learning</strong></a>
 - <a href="#riemannian-geometry" style="color: blue; text-decoration: underline;"><strong>Riemannian Geometry</strong></a>
 
-<!-- ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
-<!-- {% include_relative _includes/preprint.md %}
-
-{% include_relative _includes/publications.md %} -->
-
-<!-- {% include_relative _includes/ai_agent.md %}
-
-{% include_relative _includes/multimodal.md %}
-
-{% include_relative _includes/transfer_learning.md %}
-
-{% include_relative _includes/riemannian_geometry.md %} -->
-
-<!-- {% include_relative _includes/services.md %} -->
 
 <a id="ai-agent"></a>
 {% include_relative _includes/ai_agent.md %}
