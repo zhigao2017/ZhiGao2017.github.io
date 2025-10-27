@@ -1,5 +1,15 @@
 main:
 
+  - title: "KORE: ENHANCING KNOWLEDGE INJECTION FOR LARGE MULTIMODAL MODELS VIA KNOWLEDGEORIENTED AUGMENTATIONS AND CONSTRAINTS"
+    authors: Kailin Jiang, Hongbo Jiang, Ning Jiang, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin Li, Yuntao Du, Lei Liu, Qing Li
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2510.19316
+    # code: https://github.com/cof-reasoning/chain-of-focus
+    image: ./assets/img/koke.jpg
+    # page: https://https://cof-reasoning.github.io/
+    # notes: Post
+
   - title: "When Large Multimodal Models Confront Evolving Knowledge: Challenges and Pathways"
     authors: Kailin Jiang*, Yuntao Du*, Yukai Ding, Yuchen Ren, Ning Jiang, <strong>Zhi Gao</strong>, Zilong Zheng, Lei Liu <img src="/assets/img/email.png" width="16" />, Bin Li, Qing Li <img src="/assets/img/email.png" width="16" />
     # conference_short: CVIU

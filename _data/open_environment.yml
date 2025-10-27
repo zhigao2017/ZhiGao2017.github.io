@@ -1,5 +1,15 @@
 main:
 
+  - title: "Adaptive Model Ensemble for Continual Learning"
+    authors: Yuchuan Mao, <strong>Zhi Gao</strong>, Xiaomeng Fan, Yuwei Wub, Yunde Jia, Chenchen Jing
+    # conference_short: NeurIPS
+    # conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2509.19819
+    # code: https://github.com/Beyond-the-Seen-NeurIPS/Beyond-the-Seen
+    image: ./assets/img/mwe.png
+    # page: https://vudg-video.github.io/
+    # notes: Post
+
   - title: "Beyond the Seen: Bounded Distribution Estimation for Open-Vocabulary Learning"
     authors: Xiaomeng Fan*, Yuchuan Mao*, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Yuwei Wu, Jin Chen, Yunde Jia<img src="/assets/img/email.png" width="16" /> 
     conference_short: NeurIPS

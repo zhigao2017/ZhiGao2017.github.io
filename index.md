@@ -25,11 +25,11 @@ I received my Ph.D. degree in computer science from the Beijing Institute of Tec
 
 ## Research Interests
 
-I am interested in computer vision and machine learning, including <strong>AI Agent</strong>, <strong>Multimodal Learning</strong>, <strong>Transfer Learning</strong>, and <strong>Riemannian Geometry</strong>. You can click them for more details.
+I am interested in computer vision and machine learning, including <strong>AI Agent</strong>, <strong>Multimodal Learning</strong>, <strong>Open-Environment Learning</strong>, and <strong>Riemannian Geometry</strong>. You can click them for more details.
 
 - <a href="#ai-agent" style="color: blue; text-decoration: underline;"><strong>AI Agent</strong></a>
 - <a href="#multimodal-learning" style="color: blue; text-decoration: underline;"><strong>Multimodal Learning</strong></a>
-- <a href="#transfer-learning" style="color: blue; text-decoration: underline;"><strong>Transfer Learning</strong></a>
+- <a href="#open-environment" style="color: blue; text-decoration: underline;"><strong>Open-Environment</strong></a>
 - <a href="#riemannian-geometry" style="color: blue; text-decoration: underline;"><strong>Riemannian Geometry</strong></a>
 
 <!-- ## News
@@ -55,8 +55,8 @@ I am interested in computer vision and machine learning, including <strong>AI Ag
 <a id="multimodal-learning"></a>
 {% include_relative _includes/multimodal.md %}
 
-<a id="transfer-learning"></a>
-{% include_relative _includes/transfer_learning.md %}
+<a id="open-environment"></a>
+{% include_relative _includes/open_environment.md %}
 
 <a id="riemannian-geometry"></a>
 {% include_relative _includes/riemannian_geometry.md %}

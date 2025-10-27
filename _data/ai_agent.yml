@@ -1,5 +1,15 @@
 main:
 
+  - title: "MULTI-STEP REASONING FOR EMBODIED QUESTION ANSWERING VIA TOOL AUGMENTATION"
+    authors: Mingliang Zhai, Hansheng Liang, Xiaomeng Fan, <strong>Zhi Gao</strong>, Chuanhao Li, Che Sun, Xu Bin, Yuwei Wu, Yunde Jia
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2510.20310
+    # code: https://github.com/chenquan2002/LongVIL
+    image: ./assets/img/tool_eqa.png
+    page: https://tooleqa.github.io/
+    # notes: Post
+
   - title: "EFFICIENT MULTI-TURN RL FOR GUI AGENTS VIA DECOUPLED TRAINING AND ADAPTIVE DATA CURATION"
     authors: Pengxiang Li*, zechenhu*, Zirui Shang*, Jingrong Wu*, Yang Liu, Hui Liu, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Chenrui Shi, Bofei Zhang, Zihao Zhang, Xiaochuan Shi, Zedong Yu, Yuwei Wu<img src="/assets/img/email.png" width="16" />, Xinxiao Wu, Yunde Jia, Liuyu Xiang, Zhaofeng He, Qing Li<img src="/assets/img/email.png" width="16" /> 
     # conference_short: CVIU
