@@ -1,7 +1,7 @@
 main:
 
   - title: "KORE: ENHANCING KNOWLEDGE INJECTION FOR LARGE MULTIMODAL MODELS VIA KNOWLEDGEORIENTED AUGMENTATIONS AND CONSTRAINTS"
-    authors: Kailin Jiang, Hongbo Jiang, Ning Jiang, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin Li, Yuntao Du, Lei Liu, Qing Li
+    authors: Kailin Jiang, Hongbo Jiang, Ning Jiang, <strong>Zhi Gao</strong>, Jinhe Bi, Yuchen Ren, Bin Li, Yuntao Du, Lei Liu, Qing Li
     # conference_short: CVIU
     # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
     pdf: https://arxiv.org/pdf/2510.19316
