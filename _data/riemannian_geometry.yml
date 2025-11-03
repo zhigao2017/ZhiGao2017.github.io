@@ -1,4 +1,15 @@
 main:
+
+  - title: "MODALITY ALIGNMENT ACROSS TREES ON HETEROGENEOUS HYPERBOLIC MANIFOLDS"
+    authors: Wei Wu*, Xiaomeng Fan*, Yuwei Wu, Zhi Gao, Pengxiang Li, Yunde Jia, Mehrtash Harandi
+    # conference_short: T-NNLS
+    # conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(T-NNLS)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2510.27391
+    # code: https://github.com/large-scale-RMO/large-scale-RMO
+    image: ./assets/img/tree_align.png
+    # page: https://mat-agent.github.io/
+    # notes: Post
+
   - title: "Riemannian Implicit Differentiation via a Fixed-Point Equation for Riemannian Bi-Level Optimization"
     authors: Xiaomeng Fan, Yuwei Wu, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Zhipeng Lu<img src="/assets/img/email.png" width="16" />, Feng Li, Mehrtash Harandi, Yunde Jia
     conference_short: T-NNLS

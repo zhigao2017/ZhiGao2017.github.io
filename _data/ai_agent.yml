@@ -1,5 +1,16 @@
 main:
 
+  - title: "GUI KNOWLEDGE BENCH: REVEALING THE KNOWLEDGE GAP BEHIND VLM FAILURES IN GUI TASKS"
+    authors: Chenrui Shi*, Zedong Yu*, <strong>Zhi Gao*</strong>, Ruining Feng, Enqi Liu, Yuwei Wu, Yunde Jia, Liuyu Xiang, Zhaofeng He, Qing Li
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2510.26098v1
+    code: https://github.com/Kendrick-Stein/GUI_Knowledge_Bench_Official_Repo?tab=readme-ov-file
+    image: ./assets/img/gui_knowledge.png
+    page: https://computer-use-agents.github.io/GUI-Knowledge-Bench/
+    # notes: Post
+
+
   - title: "MULTI-STEP REASONING FOR EMBODIED QUESTION ANSWERING VIA TOOL AUGMENTATION"
     authors: Mingliang Zhai, Hansheng Liang, Xiaomeng Fan, <strong>Zhi Gao</strong>, Chuanhao Li, Che Sun, Xu Bin, Yuwei Wu, Yunde Jia
     # conference_short: CVIU
