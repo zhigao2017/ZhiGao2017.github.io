@@ -67,8 +67,8 @@ main:
 
   - title: "TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials"
     authors: Bofei Zhang*, Zirui Shang*, <strong>Zhi Gao*</strong>, Wang Zhang, Rui Xie, Xiaojian Ma, Tao Yuan, Xinxiao Wu, Song-Chun Zhu, Qing Li (*Co-first author)
-    # conference_short: CVIU
-    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026
     pdf: https://arxiv.org/pdf/2504.12679
     code: https://github.com/TongUI-agent/TongUI-agent?tab=readme-ov-file
     image: ./assets/img/tongui.png
@@ -80,7 +80,7 @@ main:
   - title: "Building LLM Agents by Incorporating Insights from Computer Systems"
     authors: Yapeng Mi, <strong>Zhi Gao</strong>, Xiaojian Ma, Qing Li
     # conference_short: CVIU
-    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    # conference: Computer Vision and Image Understanding <strong>(CVIU)</strong>, 2025
     pdf: https://arxiv.org/abs/2504.04485
     # code: https://github.com/TongUI-agent/TongUI-agent?tab=readme-ov-file
     image: ./assets/img/computersys.jpg
