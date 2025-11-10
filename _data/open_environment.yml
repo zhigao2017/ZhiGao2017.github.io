@@ -12,7 +12,7 @@ main:
 
   - title: "Beyond the Seen: Bounded Distribution Estimation for Open-Vocabulary Learning"
     authors: Xiaomeng Fan*, Yuchuan Mao*, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Yuwei Wu, Jin Chen, Yunde Jia<img src="/assets/img/email.png" width="16" /> 
-    conference_short: NeurIPS
+    conference_short: NeurIPS 2025
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025
     pdf: https://www.arxiv.org/abs/2510.04770
     code: https://github.com/Beyond-the-Seen-NeurIPS/Beyond-the-Seen
@@ -32,7 +32,7 @@ main:
 
   - title: "Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization"
     authors: Ziyi Wang, <strong>Zhi Gao</strong>, Jin Chen, Qingjie Zhao, Xinxiao Wu, Jiebo Luo
-    conference_short: T-MM
+    conference_short: T-MM 2025
     conference: IEEE Transactions on Multimedia <strong>(T-MM)</strong>, 2025
     pdf: https://arxiv.org/pdf/2507.12851
     # code: https://github.com/cof-reasoning/chain-of-focus
@@ -44,7 +44,7 @@ main:
 
   - title: "Meta-causal Learning for Single Domain Generalization"
     authors: Jin Chen*, <strong>Zhi Gao*</strong>, Xinxiao Wu, Jiebo Luo (*Co-first author)
-    conference_short: CVPR
+    conference_short: CVPR 2023
     conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023
     pdf: https://arxiv.org/pdf/2304.03709
     image: ./assets/img/cvpr20232.png

@@ -33,7 +33,7 @@ main:
 
   - title: "MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge"
     authors: Yuntao Du*, Kailin Jiang*, <strong>Zhi Gao</strong>, Chenrui Shi, Zilong Zheng, Siyuan Qi, Qing Li
-    conference_short: ICLR
+    conference_short: ICLR 2025
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025
     pdf: https://openreview.net/pdf?id=v8qABSeeKO
     code: https://github.com/MMKE-Bench-ICLR/MMKE-Bench
@@ -44,7 +44,7 @@ main:
 
   - title: "FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models"
     authors: Pengxiang Li*, <strong>Zhi Gao*</strong>, Bofei Zhang*, Tao Yuan, Yuwei Wu, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
-    conference_short: NeurIPS
+    conference_short: NeurIPS 2024
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, D&B Track, 2024
     pdf: https://arxiv.org/pdf/2407.11522
     code: https://github.com/MM-FIRE/FIRE
