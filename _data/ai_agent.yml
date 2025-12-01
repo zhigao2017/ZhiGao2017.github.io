@@ -65,7 +65,7 @@ main:
     # notes: Post
 
 
-  - title: "TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials"
+  - title: "TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents"
     authors: Bofei Zhang*, Zirui Shang*, <strong>Zhi Gao*</strong>, Wang Zhang, Rui Xie, Xiaojian Ma, Tao Yuan, Xinxiao Wu, Song-Chun Zhu, Qing Li (*Co-first author)
     conference_short: AAAI 2026
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026
