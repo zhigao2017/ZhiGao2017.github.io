@@ -49,7 +49,7 @@ I am interested in computer vision and machine learning, including <strong>AI Ag
 
 - **Talk: Multimodal Agent Learning: Formulations and Applications**. [[PDF]](https://drive.google.com/file/d/17Jzk8qq2zc1Smu8cRK3c7cnLVNA0NhNZ/view?usp=sharing) 
 
-- **Review: Riemannian Optimization**. [[PDF]]() 
+- **Review: Riemannian Optimization for Deep Learning**. [[PDF]](https://drive.google.com/file/d/1Qe6AZCyWzTppkHFlJyYfFPfhvC-dJpPk/view?usp=sharing) 
 
 
 - **Talk: Multi-modal Agent Tuning**. [[PDF]](https://drive.google.com/file/d/11m3JkTKgDsWajIPH_sT3_zWkgb_qLvHN/view?usp=drive_link) 
