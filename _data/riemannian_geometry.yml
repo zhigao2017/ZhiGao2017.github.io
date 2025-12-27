@@ -15,7 +15,7 @@ main:
     conference_short: T-NNLS 2025
     conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(T-NNLS)</strong>, 2025
     pdf: https://drive.google.com/file/d/1Ied2tyHVzuHFpoU171bqiVepiJGKjVyX/view?usp=sharing
-    # code: https://github.com/large-scale-RMO/large-scale-RMO
+    code: https://github.com/XiaomengFanmcislab/Riemannian-implicit-differentiation
     image: ./assets/img/tnnls2025.png
     # page: https://mat-agent.github.io/
     # notes: Post
@@ -25,7 +25,7 @@ main:
     conference_short: IJCV 2025
     conference: International Journal of Computer Vision<strong>(IJCV)</strong>, 2025
     pdf: https://arxiv.org/pdf/2508.17232
-    # code: https://github.com/large-scale-RMO/large-scale-RMO
+    code: https://github.com/XiaomengFanmcislab/ijcv_curvature_learning_for_generalization
     image: ./assets/img/curvature_ijcv.jpg
     # page: https://mat-agent.github.io/
     # notes: Post
