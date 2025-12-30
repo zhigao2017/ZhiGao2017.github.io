@@ -5,7 +5,7 @@ main:
     # conference_short: T-NNLS
     # conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(T-NNLS)</strong>, 2025
     pdf: https://arxiv.org/pdf/2510.27391
-    # code: https://github.com/large-scale-RMO/large-scale-RMO
+    code: https://github.com/MCISLAB-Manifold-Learning/HypModalAlign
     image: ./assets/img/tree_align.png
     # page: https://mat-agent.github.io/
     # notes: Post
