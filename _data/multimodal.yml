@@ -21,7 +21,7 @@ main:
     # notes: Post
 
 
-  - title: "Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL"
+  - title: "Adaptive Chain-of-Focus Reasoning via Dynamic Visual Search and Zooming for Efficient VLMs"
     authors: Xintong Zhang*, <strong>Zhi Gao*</strong>, Bofei Zhang, Pengxiang Li, Xiaowen Zhang, Yang Liu, Tao Yuan, Yuwei Wu1, Yunde Jia, Song-Chun Zhu, Qing Li (*Co-first author)
     # conference_short: CVIU
     # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
