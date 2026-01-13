@@ -35,7 +35,7 @@ main:
     conference_short: T-MM 2025
     conference: IEEE Transactions on Multimedia <strong>(T-MM)</strong>, 2025
     pdf: https://arxiv.org/pdf/2507.12851
-    # code: https://github.com/cof-reasoning/chain-of-focus
+    code: https://github.com/bitPrincy/SRE-DG
     image: ./assets/img/refocus.jpg
     # page: https://vudg-video.github.io/
     # notes: Post
