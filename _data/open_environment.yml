@@ -22,8 +22,8 @@ main:
 
   - title: "VUDG: A Dataset for Video Understanding Domain Generalization"
     authors: Ziyi Wang, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Boxuan Yu, Zirui Dai, Yuxiang Son, Qingyuan Lu, Jin Chen, Xinxiao Wu
-    # conference_short: CVIU
-    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    conference_short: ICLR 2026
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
     pdf: https://arxiv.org/pdf/2505.24346
     # code: https://github.com/cof-reasoning/chain-of-focus
     image: ./assets/img/vudg.jpg
