@@ -1,7 +1,7 @@
 main:
 
   - title: "AdaptMMBench: Benchmarking Adaptive Multimodal Reasoning for Mode Selection and Reasoning Process"
-    authors: Xintong Zhang, Xiaowen Zhang, Jongrong Wu, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Shilin Yan, Zhenxin Diao, Kunpeng Gao, Xuanyan Chen, Yuwei Wu<img src="/assets/img/email.png" width="16" />, Yunde Jia, Qing Li<img src="/assets/img/email.png" width="16" />
+    authors: Xintong Zhang*, Xiaowen Zhang*, Jongrong Wu*, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Shilin Yan, Zhenxin Diao, Kunpeng Gao, Xuanyan Chen, Yuwei Wu<img src="/assets/img/email.png" width="16" />, Yunde Jia, Qing Li<img src="/assets/img/email.png" width="16" />
     # conference_short: CVIU
     # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
     pdf: https://arxiv.org/pdf/2602.02676
