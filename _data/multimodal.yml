@@ -1,5 +1,15 @@
 main:
 
+  - title: "AdaptMMBench: Benchmarking Adaptive Multimodal Reasoning for Mode Selection and Reasoning Process"
+    authors: Xintong Zhang, Xiaowen Zhang, Jongrong Wu, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Shilin Yan, Zhenxin Diao, Kunpeng Gao, Xuanyan Chen, Yuwei Wu, Yunde Jia, Qing Li
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2602.02676
+    # code: https://github.com/cof-reasoning/chain-of-focus
+    image: ./assets/img/adaptmmbench.jpg
+    page: https://adaptmmbench.github.io/
+    # notes: Post
+
   - title: "KORE: ENHANCING KNOWLEDGE INJECTION FOR LARGE MULTIMODAL MODELS VIA KNOWLEDGEORIENTED AUGMENTATIONS AND CONSTRAINTS"
     authors: Kailin Jiang, Hongbo Jiang, Ning Jiang, <strong>Zhi Gao</strong>, Jinhe Bi, Yuchen Ren, Bin Li, Yuntao Du, Lei Liu, Qing Li
     # conference_short: CVIU
