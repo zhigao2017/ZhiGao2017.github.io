@@ -1,5 +1,15 @@
 main:
 
+  - title: "STVG-R1: Incentivizing Instance-Level Reasoning and Grounding in Videos via Reinforcement Learning"
+    authors: Xiaowen Zhang, <strong>Zhi Gao</strong>, Licheng Jiao<img src="/assets/img/email.png" width="16" />, Lingling Li, Qing Li<img src="/assets/img/email.png" width="16" />
+    conference_short: ICLR 2026
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
+    pdf: https://openreview.net/pdf?id=zuPxAZgT9F
+    # code: https://github.com/cof-reasoning/chain-of-focus
+    image: ./assets/img/stvg.jpg
+    page: https://stvg-r1.github.io/
+    # notes: Post
+
   - title: "AdaptMMBench: Benchmarking Adaptive Multimodal Reasoning for Mode Selection and Reasoning Process"
     authors: Xintong Zhang*, Xiaowen Zhang*, Jongrong Wu*, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Shilin Yan, Zhenxin Diao, Kunpeng Gao, Xuanyan Chen, Yuwei Wu<img src="/assets/img/email.png" width="16" />, Yunde Jia, Qing Li<img src="/assets/img/email.png" width="16" />
     # conference_short: CVIU
