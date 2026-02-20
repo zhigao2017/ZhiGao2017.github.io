@@ -1,0 +1,42 @@
+main:
+  - title: "RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation"
+    authors: Yixue Zhang, Kun Wu <strong>Zhi Gao*</strong>, Zhen Zhao, Pei Ren, Zhiyuan Xu, Fei Liao, Xinhua Wang, Shichao Fan, Di Wu, Qiuxuan Feng, Meng Li, Zhengping Che, Chang Liu, Jian Tang
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://www.arxiv.org/pdf/2602.16444
+    # code: https://github.com/Kendrick-Stein/GUI_Knowledge_Bench_Official_Repo?tab=readme-ov-file
+    image: ./assets/img/rebogen.jpg
+    page: https://robogene-boost-vla.github.io/
+    # notes: Post
+
+
+  - title: "MULTI-STEP REASONING FOR EMBODIED QUESTION ANSWERING VIA TOOL AUGMENTATION"
+    authors: Mingliang Zhai, Hansheng Liang, Xiaomeng Fan, <strong>Zhi Gao</strong>, Chuanhao Li, Che Sun, Xu Bin, Yuwei Wu, Yunde Jia
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2510.20310
+    # code: https://github.com/chenquan2002/LongVIL
+    image: ./assets/img/tool_eqa.png
+    page: https://tooleqa.github.io/
+    # notes: Post
+
+
+  - title: "Long-Horizon Visual Imitation Learning via Plan and Code Reflection"
+    authors: Quan Chen*, Chenrui Shi*, Qi Chen, Yuwei Wu, <strong>Zhi Gao</strong>, Xintong Zhang, Rui Gao, Kun Wu, Yunde Jia
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2509.05368
+    code: https://github.com/chenquan2002/LongVIL
+    image: ./assets/img/longvil.jpg
+    page: https://longvil-agent.github.io/
+    # notes: Post
+
+  - title: "Memory-Centric Embodied Question Answering"
+    authors: Mingliang Zhai, <strong>Zhi Gao</strong>, Yuwei Wu, Yunde Jia
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2505.13948
+    code: https://github.com/memory-eqa/MemoryEQA
+    image: ./assets/img/memoryeqa.jpg
+    page: https://memory-eqa.github.io
+    # notes: Post
