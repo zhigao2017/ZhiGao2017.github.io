@@ -1,4 +1,14 @@
 main:
+  - title: "RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation"
+    authors: Yixue Zhang, Kun Wu <strong>Zhi Gao*</strong>, Zhen Zhao, Pei Ren, Zhiyuan Xu, Fei Liao, Xinhua Wang, Shichao Fan, Di Wu, Qiuxuan Feng, Meng Li, Zhengping Che, Chang Liu, Jian Tang
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://www.arxiv.org/pdf/2602.16444
+    # code: https://github.com/Kendrick-Stein/GUI_Knowledge_Bench_Official_Repo?tab=readme-ov-file
+    image: ./assets/img/rebogen.jpg
+    page: https://robogene-boost-vla.github.io/
+    # notes: Post
+
 
   - title: "GUI KNOWLEDGE BENCH: REVEALING THE KNOWLEDGE GAP BEHIND VLM FAILURES IN GUI TASKS"
     authors: Chenrui Shi*, Zedong Yu*, <strong>Zhi Gao*</strong>, Ruining Feng, Enqi Liu, Yuwei Wu, Yunde Jia, Liuyu Xiang, Zhaofeng He, Qing Li
