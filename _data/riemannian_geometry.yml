@@ -1,7 +1,7 @@
 main:
 
   - title: "MODALITY ALIGNMENT ACROSS TREES ON HETEROGENEOUS HYPERBOLIC MANIFOLDS"
-    authors: Wei Wu*, Xiaomeng Fan*, Yuwei Wu, Zhi Gao, Pengxiang Li, Yunde Jia, Mehrtash Harandi
+    authors: Wei Wu*, Xiaomeng Fan*, Yuwei Wu, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Pengxiang Li, Yunde Jia<img src="/assets/img/email.png" width="16" />, Mehrtash Harandi
     conference_short: ICLR 2026
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
     pdf: https://arxiv.org/pdf/2510.27391
