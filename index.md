@@ -25,16 +25,24 @@ I received my Ph.D. degree in computer science from the Beijing Institute of Tec
 
 ## Research Interests
 
-I am interested in computer vision and machine learning, including <strong>AI Agent</strong>, <strong>Multimodal Learning</strong>, <strong>Open-Environment Learning</strong>, and <strong>Riemannian Geometry</strong>. You can click them for more details.
+I am interested in computer vision and machine learning, including <strong>Digit Agent</strong>, <strong>Embodied Agent</strong>, <strong>Multimodal Learning</strong>, <strong>Open-Environment Learning</strong>, and <strong>Riemannian Geometry</strong>. You can click them for more details.
 
-- <a href="#ai-agent" style="color: blue; text-decoration: underline;"><strong>AI Agent</strong></a>
+<!-- - <a href="#ai-agent" style="color: blue; text-decoration: underline;"><strong>AI Agent</strong></a> -->
+- <a href="#digit-agent" style="color: blue; text-decoration: underline;"><strong>Digit Agent</strong></a>
+- <a href="#embodied-agent" style="color: blue; text-decoration: underline;"><strong>Embodied Agent</strong></a>
 - <a href="#multimodal-learning" style="color: blue; text-decoration: underline;"><strong>Multimodal Learning</strong></a>
 - <a href="#open-environment" style="color: blue; text-decoration: underline;"><strong>Open-Environment Learning</strong></a>
 - <a href="#riemannian-geometry" style="color: blue; text-decoration: underline;"><strong>Riemannian Geometry</strong></a>
 
 
-<a id="ai-agent"></a>
-{% include_relative _includes/ai_agent.md %}
+<!-- <a id="ai-agent"></a>
+{% include_relative _includes/ai_agent.md %} -->
+
+<a id="digit-agent"></a>
+{% include_relative _includes/digit_agent.md %}
+
+<a id="embodied-agent"></a>
+{% include_relative _includes/embodied_agent.md %}
 
 <a id="multimodal-learning"></a>
 {% include_relative _includes/multimodal.md %}
