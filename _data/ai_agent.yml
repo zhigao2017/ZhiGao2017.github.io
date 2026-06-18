@@ -1,4 +1,15 @@
 main:
+  - title: "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation"
+    authors: Rui Xie, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Chenrui Shi, Zirui Shang, Lu Chen<img src="/assets/img/email.png" width="16" />, Qing Li<img src="/assets/img/email.png" width="16" />
+    conference_short: ECCV 2026
+    conference: European Conference on Computer Vision<strong>(ECCV)</strong>, 2026
+    pdf: https://arxiv.org/abs/2603.26266
+    # code: https://github.com/Kendrick-Stein/GUI_Knowledge_Bench_Official_Repo?tab=readme-ov-file
+    image: ./assets/img/eccv_guide.jpg
+    page: https://robogene-boost-vla.github.io/
+    # notes: Post
+
+
   - title: "RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation"
     authors: Yixue Zhang, Kun Wu, <strong>Zhi Gao</strong>, Zhen Zhao, Pei Ren, Zhiyuan Xu, Fei Liao, Xinhua Wang, Shichao Fan, Di Wu, Qiuxuan Feng, Meng Li, Zhengping Che, Chang Liu, Jian Tang
     # conference_short: CVIU
