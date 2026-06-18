@@ -1,6 +1,6 @@
 main:
   - title: "RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation"
-    authors: Yixue Zhang, Kun Wu <strong>Zhi Gao*</strong>, Zhen Zhao, Pei Ren, Zhiyuan Xu, Fei Liao, Xinhua Wang, Shichao Fan, Di Wu, Qiuxuan Feng, Meng Li, Zhengping Che, Chang Liu, Jian Tang
+    authors: Yixue Zhang, Kun Wu, <strong>Zhi Gao*</strong>, Zhen Zhao, Pei Ren, Zhiyuan Xu, Fei Liao, Xinhua Wang, Shichao Fan, Di Wu, Qiuxuan Feng, Meng Li, Zhengping Che, Chang Liu, Jian Tang
     # conference_short: CVIU
     # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
     pdf: https://www.arxiv.org/pdf/2602.16444
