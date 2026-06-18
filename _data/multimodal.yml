@@ -1,5 +1,16 @@
 main:
 
+  - title: "Seeing Through Fog: Towards Fog-Invariant Action Recognition"
+    authors: Enqi Liu, Liyuan Pan<img src="/assets/img/email.png" width="16" />, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Lingzhi Li, Qing Li
+    conference_short: CVPR Finding 2026
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Findings, 2026
+    pdf: https://openaccess.thecvf.com/content/CVPR2026F/papers/Liu_Seeing_Through_Fog_Towards_Fog-Invariant_Action_Recognition_CVPRF_2026_paper.pdf
+    code: https://github.com/Liu-arch/Seeing-Through-Fog-Towards-Fog-Invariant-Action-Recognition
+    image: ./assets/img/cvprf26.jpg
+    # page: https://github.com/Liu-arch/Seeing-Through-Fog-Towards-Fog-Invariant-Action-Recognition
+    # notes: Post
+
+
   - title: "STVG-R1: Incentivizing Instance-Level Reasoning and Grounding in Videos via Reinforcement Learning"
     authors: Xiaowen Zhang, <strong>Zhi Gao</strong>, Licheng Jiao<img src="/assets/img/email.png" width="16" />, Lingling Li, Qing Li<img src="/assets/img/email.png" width="16" />
     conference_short: ICLR 2026
