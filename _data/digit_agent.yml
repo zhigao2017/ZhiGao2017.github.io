@@ -5,7 +5,7 @@ main:
     conference_short: ECCV 2026
     conference: European Conference on Computer Vision<strong>(ECCV)</strong>, 2026
     pdf: https://arxiv.org/abs/2603.26266
-    # code: https://github.com/Kendrick-Stein/GUI_Knowledge_Bench_Official_Repo?tab=readme-ov-file
+    code: https://github.com/sharryXR/GUIDE
     image: ./assets/img/eccv_guide.jpg
     page: https://robogene-boost-vla.github.io/
     # notes: Post

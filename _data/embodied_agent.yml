@@ -4,7 +4,7 @@ main:
     # conference_short: CVIU
     # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
     pdf: https://www.arxiv.org/pdf/2602.16444
-    # code: https://github.com/Kendrick-Stein/GUI_Knowledge_Bench_Official_Repo?tab=readme-ov-file
+    code: https://github.com/Kendrick-Stein/GUI_Knowledge_Bench_Official_Repo?tab=readme-ov-file
     image: ./assets/img/rebogen.jpg
     page: https://robogene-boost-vla.github.io/
     # notes: Post
