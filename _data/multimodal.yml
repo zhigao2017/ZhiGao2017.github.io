@@ -33,10 +33,10 @@ main:
 
   - title: "KORE: ENHANCING KNOWLEDGE INJECTION FOR LARGE MULTIMODAL MODELS VIA KNOWLEDGEORIENTED AUGMENTATIONS AND CONSTRAINTS"
     authors: Kailin Jiang, Hongbo Jiang, Ning Jiang, <strong>Zhi Gao</strong>, Jinhe Bi, Yuchen Ren, Bin Li, Yuntao Du, Lei Liu, Qing Li
-    # conference_short: CVIU
-    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    conference_short: ICML 2026
+    conference: International Conference on Machine Learning<strong>(ICML)</strong>, 2026
     pdf: https://arxiv.org/pdf/2510.19316
-    # code: https://github.com/cof-reasoning/chain-of-focus
+    code: https://github.com/KORE-LMM/KORE
     image: ./assets/img/koke.png
     page: https://kore-lmm.github.io/
     # notes: Post
@@ -46,9 +46,9 @@ main:
     conference_short: ICLR 2026
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
     pdf: https://arxiv.org/pdf/2505.24449?
-    # code: https://github.com/cof-reasoning/chain-of-focus
+    code: https://github.com/EVOKE-LMM/EVOKE
     image: ./assets/img/whenmeet.jpg
-    # page: https://https://cof-reasoning.github.io/
+    page: https://evoke-lmm.github.io/
     # notes: Post
 
 
