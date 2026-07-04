@@ -1,5 +1,27 @@
 main:
 
+  - title: "Enhancing Web Agents with a Hierarchical Memory Tree"
+    authors: Yunteng Tan, <strong>Zhi Gao</strong>, Xinxiao Wu
+    # conference_short: ECCV 2026
+    # conference: European Conference on Computer Vision<strong>(ECCV)</strong>, 2026
+    pdf: https://arxiv.org/pdf/2603.07024
+    # code: https://huggingface.co/datasets/L1007555652/osworld_env
+    image: ./assets/img/hmt.jpg
+    # page: https://robogene-boost-vla.github.io/
+    # notes: Post
+
+
+  - title: "Benchmarking and Improving GUI Agents in High-Dynamic Environments"
+    authors: Enqi Liu, Liyuan Pan, <strong>Zhi Gao</strong>, Yan Yang, Chenrui Shi, Yang Liu, Jingrong Wu, Qing Li
+    # conference_short: ECCV 2026
+    # conference: European Conference on Computer Vision<strong>(ECCV)</strong>, 2026
+    pdf: https://arxiv.org/pdf/2604.25380
+    code: https://huggingface.co/datasets/L1007555652/osworld_env
+    image: ./assets/img/dynamicgui.jpg
+    # page: https://robogene-boost-vla.github.io/
+    # notes: Post
+
+
   - title: "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation"
     authors: Rui Xie, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Chenrui Shi, Zirui Shang, Lu Chen<img src="/assets/img/email.png" width="16" />, Qing Li<img src="/assets/img/email.png" width="16" />
     conference_short: ECCV 2026

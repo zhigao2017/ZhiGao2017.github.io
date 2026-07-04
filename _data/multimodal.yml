@@ -1,5 +1,26 @@
 main:
 
+  - title: "Bridging Modality Disconnect in Self-Reflection via Closed-Loop Visually Grounded Verification"
+    authors: Haoyu Zhang, Yuwei Wu, Pengxiang Li, Xintong Zhang, Zhi Gao, Rui Gao, Mingyang Gao, Che Sun, Yunde Jia,
+    # conference_short: CVPR Finding 2026
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Findings, 2026
+    pdf: https://arxiv.org/pdf/2606.29573
+    # code: https://github.com/WeiWu2025/GranFact
+    image: ./assets/img/mirror.jpg
+    # page: https://github.com/Liu-arch/Seeing-Through-Fog-Towards-Fog-Invariant-Action-Recognition
+    # notes: Post
+
+
+  - title: "Reliability-Prioritized Fine-Grained Generation in Multimodal Large Language Models"
+    authors: Xiaomeng Fan, Wei Wu, Yuwei Wu, <strong>Zhi Gao</strong>, Shiyu Luo, Mingyang Gao, Haoyu Zhao, Zhenxin Diao, Yuxuan Ba, Lijia Feng, Yunde Jia, Mehrtash Harandi
+    # conference_short: CVPR Finding 2026
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Findings, 2026
+    pdf: https://arxiv.org/pdf/2606.29573
+    code: https://github.com/WeiWu2025/GranFact
+    image: ./assets/img/granfact.jpg
+    # page: https://github.com/Liu-arch/Seeing-Through-Fog-Towards-Fog-Invariant-Action-Recognition
+    # notes: Post
+
   - title: "Seeing Through Fog: Towards Fog-Invariant Action Recognition"
     authors: Enqi Liu, Liyuan Pan<img src="/assets/img/email.png" width="16" />, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Lingzhi Li, Qing Li
     conference_short: CVPR Finding 2026
