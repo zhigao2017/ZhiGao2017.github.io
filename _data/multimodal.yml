@@ -1,7 +1,7 @@
 main:
 
   - title: "Bridging Modality Disconnect in Self-Reflection via Closed-Loop Visually Grounded Verification"
-    authors: Haoyu Zhang, Yuwei Wu, Pengxiang Li, Xintong Zhang, Zhi Gao, Rui Gao, Mingyang Gao, Che Sun, Yunde Jia,
+    authors: Haoyu Zhang, Yuwei Wu, Pengxiang Li, Xintong Zhang, <strong>Zhi Gao</strong>, Rui Gao, Mingyang Gao, Che Sun, Yunde Jia,
     # conference_short: CVPR Finding 2026
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Findings, 2026
     pdf: https://arxiv.org/pdf/2606.29573
