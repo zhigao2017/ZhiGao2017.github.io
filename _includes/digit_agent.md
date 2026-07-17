@@ -1,4 +1,4 @@
-<h2 id="digit_agent" style="margin: 2px 0px -15px;">Digit Agents</h2>
+<h2 id="digit_agent" style="margin: 2px 0px -15px;">Digital Agents</h2>
 
 <div class="publications">
 <ol class="bibliography">
