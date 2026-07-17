@@ -23,7 +23,7 @@ main:
 
   - title: "Seeing Through Fog: Towards Fog-Invariant Action Recognition"
     authors: Enqi Liu, Liyuan Pan<img src="/assets/img/email.png" width="16" />, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Lingzhi Li, Qing Li
-    conference_short: CVPR Finding 2026
+    conference_short: CVPR Findings 2026
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Findings, 2026
     pdf: https://openaccess.thecvf.com/content/CVPR2026F/papers/Liu_Seeing_Through_Fog_Towards_Fog-Invariant_Action_Recognition_CVPRF_2026_paper.pdf
     code: https://github.com/Liu-arch/Seeing-Through-Fog-Towards-Fog-Invariant-Action-Recognition
