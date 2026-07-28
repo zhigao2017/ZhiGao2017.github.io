@@ -22,7 +22,7 @@ main:
 
 
   - title: "Long-Horizon Visual Imitation Learning via Plan and Code Reflection"
-    authors: Quan Chen*, Chenrui Shi*, Qi Chen, Yuwei Wu, <strong>Zhi Gao</strong>, Xintong Zhang, Rui Gao, Kun Wu, Yunde Jia
+    authors: Quan Chen, Chenrui Shi, Qi Chen, Yuwei Wu, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Xintong Zhang, Rui Gao, Kun Wu, Yunde Jia
     conference_short: RAL 2026
     conference: IEEE Robotics and Automation Letters<strong>(RAL)</strong>, 2026
     pdf: https://arxiv.org/pdf/2509.05368

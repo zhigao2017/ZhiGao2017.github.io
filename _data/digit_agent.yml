@@ -1,5 +1,16 @@
 main:
 
+  - title: "Beyond Sequential Interaction: Benchmarking Parallel Execution and Coordination for GUI Agents"
+    authors: Zedong Yu*, Qianxing Li*, <strong>Zhi Gao</strong>, Liuyu Xiang, Chenrui Shi, Yang Liu, Huiming Wu, Yujie Wei, Yuhao Fei, Yubo Fu, and Zhaofeng He
+    # conference_short: ECCV 2026
+    # conference: European Conference on Computer Vision<strong>(ECCV)</strong>, 2026
+    pdf: https://arxiv.org/pdf/2607.22689
+    code: https://github.com/pkgunboat/ParaGUIBench
+    image: ./assets/img/parallel.jpg
+    # page: https://robogene-boost-vla.github.io/
+    # notes: Post
+
+
   - title: "Enhancing Web Agents with a Hierarchical Memory Tree"
     authors: Yunteng Tan, <strong>Zhi Gao</strong>, Xinxiao Wu
     # conference_short: ECCV 2026
