@@ -1,5 +1,15 @@
 main:
 
+  - title: "Beyond the Capability Boundary: Zeroth-Order Optimization for Self-Evolving LLM Agents"
+    authors: Bingzhen Liu*, Xiaomeng Fan*, Yuwei Wu, Zhi Gao, Mingyang Gao, Chuanhao Li, Yunde Jia
+    # conference_short: ECCV 2026
+    # conference: European Conference on Computer Vision<strong>(ECCV)</strong>, 2026
+    pdf: https://arxiv.org/pdf/2608.09292
+    code: https://github.com/hidk1911/ZOForLLMAgents
+    image: ./assets/img/beyond_capability.jpg
+    # page: https://robogene-boost-vla.github.io/
+    # notes: Post
+
   - title: "Beyond Sequential Interaction: Benchmarking Parallel Execution and Coordination for GUI Agents"
     authors: Zedong Yu*, Qianxing Li*, <strong>Zhi Gao</strong>, Liuyu Xiang, Chenrui Shi, Yang Liu, Huiming Wu, Yujie Wei, Yuhao Fei, Yubo Fu, and Zhaofeng He
     # conference_short: ECCV 2026
