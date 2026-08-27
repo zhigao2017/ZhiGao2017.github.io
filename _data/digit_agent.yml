@@ -1,5 +1,17 @@
 main:
 
+
+  - title: "Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification"
+    authors: Chenrui Shi, Yuwei Wu, Yang Liu, Ruining Feng, Zirui Shang, Zhi Gao, Lifeng Fan, Che Sun
+    # conference_short: ECCV 2026
+    # conference: European Conference on Computer Vision<strong>(ECCV)</strong>, 2026
+    pdf: https://arxiv.org/pdf/2607.25904
+    # code: https://github.com/hidk1911/ZOForLLMAgents
+    image: ./assets/img/IRA.jpg
+    page: https://kendrick-stein.github.io/InteractiveRewardAgent-OfficialRepo/
+    # notes: Post
+
+
   - title: "Beyond the Capability Boundary: Zeroth-Order Optimization for Self-Evolving LLM Agents"
     authors: Bingzhen Liu*, Xiaomeng Fan*, Yuwei Wu, Zhi Gao, Mingyang Gao, Chuanhao Li, Yunde Jia
     # conference_short: ECCV 2026
