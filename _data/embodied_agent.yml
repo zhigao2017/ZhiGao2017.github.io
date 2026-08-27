@@ -1,4 +1,16 @@
 main:
+
+  - title: "A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models"
+    authors: Haoyu Zhang, Yuwei Wu, Jin Chen, Gao Zhi, Zhenxin Diao, Mingyang Gao, Kun Wu, Yongchun Liu, Fan Li
+    # conference_short: CVIU
+    # conference: Computer Vision and Image Understanding<strong>(CVIU)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2607.25516
+    code: https://github.com/floy4/IDR-Framework
+    image: ./assets/img/IDR.jpg
+    page: https://floy4.github.io/IDR/
+    # notes: Post
+
+
   - title: "RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation"
     authors: Yixue Zhang, Kun Wu, <strong>Zhi Gao</strong>, Zhen Zhao, Pei Ren, Zhiyuan Xu, Fei Liao, Xinhua Wang, Shichao Fan, Di Wu, Qiuxuan Feng, Meng Li, Zhengping Che, Chang Liu, Jian Tang
     # conference_short: CVIU
