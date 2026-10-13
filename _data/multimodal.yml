@@ -12,7 +12,7 @@ main:
 
 
   - title: "Reliability-Prioritized Fine-Grained Generation in Multimodal Large Language Models"
-    authors: Xiaomeng Fan, Wei Wu, Yuwei Wu, <strong>Zhi Gao</strong>, Shiyu Luo, Mingyang Gao, Haoyu Zhao, Zhenxin Diao, Yuxuan Ba, Lijia Feng, Yunde Jia, Mehrtash Harandi
+    authors: Xiaomeng Fan, Wei Wu, Yuwei Wu, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Shiyu Luo, Mingyang Gao, Haoyu Zhao, Zhenxin Diao, Yuxuan Ba, Lijia Feng, Yunde Jia<img src="/assets/img/email.png" width="16" />, Mehrtash Harandi
     conference_short: EMNLP 2026
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong> Findings, 2026
     pdf: https://arxiv.org/pdf/2606.29573
@@ -43,7 +43,7 @@ main:
     # notes: Post
 
   - title: "AdaptMMBench: Benchmarking Adaptive Multimodal Reasoning for Mode Selection and Reasoning Process"
-    authors: Xintong Zhang*, Xiaowen Zhang*, Jongrong Wu*, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Shilin Yan, Zhenxin Diao, Kunpeng Gao, Xuanyan Chen, Yuwei Wu<img src="/assets/img/email.png" width="16" />, Yunde Jia, Qing Li<img src="/assets/img/email.png" width="16" />
+    authors: Xintong Zhang*, Xiaowen Zhang*, Jongrong Wu*, <strong>Zhi Gao</strong><img src="/assets/img/email.png" width="16" />, Shilin Yan, Zhenxin Diao, Kunpeng Gao, Xuanyan Chen, Yuwei Wu, Yunde Jia, Qing Li<img src="/assets/img/email.png" width="16" />
     conference_short: EMNLP 2026
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong> Findings, 2026
     pdf: https://arxiv.org/pdf/2602.02676
